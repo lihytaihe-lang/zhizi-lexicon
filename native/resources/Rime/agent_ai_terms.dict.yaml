@@ -1,0 +1,294 @@
+# AI-era product, company, model and tool names: canonical spelling, lowercase letters-only reading.
+# Built by scripts/lexicon/export_ai_terms.py from web-checked name lists; do not edit by hand.
+---
+name: agent_ai_terms
+version: "0.1.0"
+sort: by_weight
+...
+
+Adobe Firefly	adobefirefly	500
+Agent Client Protocol	agentclientprotocol	500
+Agent Development Kit	agentdevelopmentkit	500
+Agent Payments Protocol	agentpaymentsprotocol	500
+Agent Skills	agentskills	500
+AGENTS.md	agentsmd	500
+AI agent	aiagent	500
+Aider	aider	500
+AI hallucination	aihallucination	500
+AI SDK	aisdk	500
+AlphaEvolve	alphaevolve	500
+AlphaFold	alphafold	500
+Amazon Bedrock	amazonbedrock	500
+Amazon Bedrock AgentCore	amazonbedrockagentcore	500
+Amazon Q Developer	amazonqdeveloper	500
+Anthropic	anthropic	500
+Antigravity CLI	antigravitycli	500
+Anysphere	anysphere	500
+AppBuilder	appbuilder	500
+Aqua Voice	aquavoice	500
+Arize Phoenix	arizephoenix	500
+Auggie CLI	auggiecli	500
+Augment Code	augmentcode	500
+AutoGen	autogen	500
+Baidu Comate	baiducomate	500
+BigModel	bigmodel	500
+Black Forest Labs	blackforestlabs	500
+Capacities	capacities	500
+CapCut	capcut	500
+CatPaw	catpaw	500
+chain of thought	chainofthought	500
+Character.AI	characterai	500
+Chatbox AI	chatboxai	500
+ChatGLM	chatglm	500
+Cherry Studio	cherrystudio	500
+Civitai	civitai	500
+Claude Agent SDK	claudeagentsdk	500
+Claude Code	claudecode	500
+Claude Haiku	claudehaiku	500
+Claude Opus	claudeopus	500
+Claude Sonnet	claudesonnet	500
+Cline	cline	500
+CodeArts IDE	codeartside	500
+CodeBuddy	codebuddy	500
+CodeBuddy Code	codebuddycode	500
+Codebuff	codebuff	500
+CodeGeeX	codegeex	500
+Code Llama	codellama	500
+CodeRabbit	coderabbit	500
+Codestral	codestral	500
+Codex CLI	codexcli	500
+Codex Cloud	codexcloud	500
+Cohere	cohere	500
+context window	contextwindow	500
+Copilot cloud agent	copilotcloudagent	500
+Core ML	coreml	500
+CosyVoice	cosyvoice	500
+Coze	coze	500
+CrewAI	crewai	500
+Cursor Agent	cursoragent	500
+Cursor CLI	cursorcli	500
+Deep Agents	deepagents	500
+DeepSeek	deepseek	500
+DeepSeek Coder	deepseekcoder	500
+DeepSeek Harness	deepseekharness	500
+DeepSpeed	deepspeed	500
+Devin	devin	500
+Devin CLI	devincli	500
+Devin Desktop	devindesktop	500
+Devstral	devstral	500
+Dify	dify	500
+Droid	droid	500
+DSPy	dspy	500
+ElevenLabs	elevenlabs	500
+ERNIE Bot	erniebot	500
+FastGPT	fastgpt	500
+Figma Make	figmamake	500
+fine-tuning	finetuning	500
+Firebase Studio	firebasestudio	500
+Fireflies.ai	firefliesai	500
+Flowise	flowise	500
+FLUX	flux	500
+function calling	functioncalling	500
+Gemini CLI	geminicli	500
+Gemini Code Assist	geminicodeassist	500
+Gemini Enterprise Agent Platform	geminienterpriseagentplatform	500
+Gemini Notebook	gemininotebook	500
+Gemini Robotics	geminirobotics	500
+Gemma	gemma	500
+Genspark	genspark	500
+GGUF	gguf	500
+GitHub Copilot	githubcopilot	500
+GitHub Copilot CLI	githubcopilotcli	500
+GitHub Spark	githubspark	500
+GLM Coding Plan	glmcodingplan	500
+Google AI Studio	googleaistudio	500
+Google Antigravity	googleantigravity	500
+Google DeepMind	googledeepmind	500
+gpt-oss	gptoss	500
+Grammarly	grammarly	500
+Granola	granola	500
+Greptile	greptile	500
+Grok	grok	500
+Grok Build	grokbuild	500
+Grok Imagine	grokimagine	500
+GRPO	grpo	500
+Heptabase	heptabase	500
+HeyGen	heygen	500
+Higgsfield AI	higgsfieldai	500
+Ideogram	ideogram	500
+iFlow CLI	iflowcli	500
+iFlyCode	iflycode	500
+iFlytek Spark	iflytekspark	500
+Immersive Translate	immersivetranslate	500
+inclusionAI	inclusionai	500
+Inference Providers	inferenceproviders	500
+InternLM	internlm	500
+InternVL	internvl	500
+Jamba	jamba	500
+JoyCode	joycode	500
+Kilo Code	kilocode	500
+Kimi	kimi	500
+Kimi CLI	kimicli	500
+Kimi Code	kimicode	500
+Kiro	kiro	500
+Kling AI	klingai	500
+knowledge distillation	knowledgedistillation	500
+Krea	krea	500
+LanceDB	lancedb	500
+Langflow	langflow	500
+LangGraph	langgraph	500
+LangSmith	langsmith	500
+Le Chat	lechat	500
+LiblibAI	liblibai	500
+Lindy	lindy	500
+LiteLLM	litellm	500
+LlamaCloud	llamacloud	500
+llama.cpp	llamacpp	500
+LlamaFactory	llamafactory	500
+Llama Guard	llamaguard	500
+LlamaIndex	llamaindex	500
+llms.txt	llmstxt	500
+LM Studio	lmstudio	500
+LobeHub	lobehub	500
+LongCat	longcat	500
+LoRA	lora	500
+Lovable	lovable	500
+Lovart	lovart	500
+Lyria	lyria	500
+Magic Patterns	magicpatterns	500
+Magistral	magistral	500
+Manus	manus	500
+MarsCode	marscode	500
+Mastra	mastra	500
+MedGemma	medgemma	500
+Microsoft Agent Framework	microsoftagentframework	500
+Microsoft Copilot	microsoftcopilot	500
+Microsoft Foundry	microsoftfoundry	500
+Midjourney	midjourney	500
+Milvus	milvus	500
+MindSpore	mindspore	500
+MiniCPM	minicpm	500
+MiniMax	minimax	500
+MiniMax Agent	minimaxagent	500
+MiniMax Music	minimaxmusic	500
+MiniMax Speech	minimaxspeech	500
+Ministral	ministral	500
+Mistral AI	mistralai	500
+Mistral Large	mistrallarge	500
+Mistral Medium	mistralmedium	500
+Mistral Small	mistralsmall	500
+Mistral Vibe	mistralvibe	500
+Mixtral	mixtral	500
+MLX	mlx	500
+ModelArts	modelarts	500
+ModelBest	modelbest	500
+Model Context Protocol	modelcontextprotocol	500
+ModelScope	modelscope	500
+Model Studio	modelstudio	500
+Moonshot AI	moonshotai	500
+multi-agent system	multiagentsystem	500
+multimodal AI	multimodalai	500
+Muse Code	musecode	500
+Muse Glimmer	museglimmer	500
+Muse Spark	musespark	500
+Muse Wonder	musewonder	500
+Nemotron	nemotron	500
+NotebookLM	notebooklm	500
+Notion AI	notionai	500
+Notta	notta	500
+NVIDIA Dynamo	nvidiadynamo	500
+NVIDIA NIM	nvidianim	500
+Obsidian	obsidian	500
+Ollama	ollama	500
+Olmo	olmo	500
+ONNX Runtime	onnxruntime	500
+OpenAI Agents SDK	openaiagentssdk	500
+OpenBMB	openbmb	500
+OpenClaw	openclaw	500
+OpenCode	opencode	500
+OpenHands	openhands	500
+OpenRouter	openrouter	500
+OpenTelemetry	opentelemetry	500
+Open WebUI	openwebui	500
+OpusClip	opusclip	500
+Otter.ai	otterai	500
+PaddlePaddle	paddlepaddle	500
+PagedAttention	pagedattention	500
+PaliGemma	paligemma	500
+Perplexity	perplexity	500
+Pinecone	pinecone	500
+Pixtral	pixtral	500
+PixVerse	pixverse	500
+prompt caching	promptcaching	500
+prompt engineering	promptengineering	500
+Promptfoo	promptfoo	500
+Pydantic AI	pydanticai	500
+PyTorch	pytorch	500
+Qdrant	qdrant	500
+QLoRA	qlora	500
+Qoder	qoder	500
+Qoder CLI	qodercli	500
+QoderWake	qoderwake	500
+QoderWork	qoderwork	500
+Qodo	qodo	500
+Qwen	qwen	500
+Qwen Code	qwencode	500
+Qwen-Image	qwenimage	500
+Qwen-Plus	qwenplus	500
+RAG	rag	500
+RAGFlow	ragflow	500
+Raycast	raycast	500
+Readwise Reader	readwisereader	500
+Replit	replit	500
+Replit Agent	replitagent	500
+RLHF	rlhf	500
+Roo Code	roocode	500
+Roomote	roomote	500
+Rork	rork	500
+Seedream	seedream	500
+Semantic Kernel	semantickernel	500
+SenseChat	sensechat	500
+SenseCore	sensecore	500
+SenseNova	sensenova	500
+SGLang	sglang	500
+SiliconFlow	siliconflow	500
+SillyTavern	sillytavern	500
+SkyReels	skyreels	500
+Skywork	skywork	500
+smolagents	smolagents	500
+Sora	sora	500
+Sourcegraph	sourcegraph	500
+Stable Audio	stableaudio	500
+Stable Diffusion	stablediffusion	500
+StepFun	stepfun	500
+Superwhisper	superwhisper	500
+Synthesia	synthesia	500
+Tencent Yuanbao	tencentyuanbao	500
+TensorRT-LLM	tensorrtllm	500
+TimesFM	timesfm	500
+Together AI	togetherai	500
+tool calling	toolcalling	500
+TRAE	trae	500
+TraeCode	traecode	500
+TRAE SOLO	traesolo	500
+TraeWork	traework	500
+Transformers	transformers	500
+TRL	trl	500
+Typeless	typeless	500
+Udio	udio	500
+Unsloth	unsloth	500
+vector database	vectordatabase	500
+Veo	veo	500
+vibe coding	vibecoding	500
+Vidu	vidu	500
+vLLM	vllm	500
+Voxtral	voxtral	500
+Weaviate	weaviate	500
+Whisper	whisper	500
+Windsurf	windsurf	500
+Wispr Flow	wisprflow	500
+WorkBuddy	workbuddy	500
+Workers AI	workersai	500
+xAI	xai	500
+Yi-Lightning	yilightning	500
+Zencoder	zencoder	500

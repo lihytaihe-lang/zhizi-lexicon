@@ -1,0 +1,695 @@
+# Optional vocabulary pack: cad.
+# Built by scripts/lexicon/curate_packs.py + export_packs.py from researched, source-checked lists; do not edit by hand.
+---
+name: agent_pack_cad
+version: "0.1.0"
+sort: by_weight
+...
+
+凹槽	ao cao	200
+凹槽参数	ao cao can shu	200
+八边形	ba bian xing	200
+拔模角度	ba mo jiao du	200
+半径尺寸	ban jing chi cun	200
+半径和直径	ban jing he zhi jing	200
+半径约束	ban jing yue shu	200
+爆炸视图	bao zha shi tu	200
+北向偏移	bei xiang pian yi	200
+闭合曲线	bi he qu xian	200
+闭合样条曲线	bi he yang tiao qu xian	200
+边编辑工具	bian bian ji gong ju	200
+变换副本	bian huan fu ben	200
+变换实体	bian huan shi ti	200
+变换特征	bian huan te zheng	200
+边界框	bian jie kuang	200
+边界框信息	bian jie kuang xin xi	200
+边界框中心	bian jie kuang zhong xin	200
+边缘工具	bian yuan gong ju	200
+表面粗糙度符号	biao mian cu cao du fu hao	200
+表面拟合	biao mian ni he	200
+表面偏差	biao mian pian cha	200
+标准视图	biao zhun shi tu	200
+布尔参数	bu er can shu	200
+布尔操作	bu er cao zuo	200
+布尔工具	bu er gong ju	200
+布尔碎片	bu er sui pian	200
+布尔异或	bu er yi huo	200
+捕捉半径	bu zhuo ban jing	200
+捕捉垂足	bu zhuo chui zu	200
+捕捉端点	bu zhuo duan dian	200
+捕捉工作平面	bu zhuo gong zuo ping mian	200
+捕捉交点	bu zhuo jiao dian	200
+捕捉角度	bu zhuo jiao du	200
+捕捉平行	bu zhuo ping xing	200
+捕捉网格	bu zhuo wang ge	200
+捕捉延伸	bu zhuo yan shen	200
+捕捉正交	bu zhuo zheng jiao	200
+捕捉中点	bu zhuo zhong dian	200
+捕捉中心	bu zhuo zhong xin	200
+捕捉最近点	bu zhuo zui jin dian	200
+裁剪视图	cai jian shi tu	200
+材质工具	cai zhi gong ju	200
+材质工作台	cai zhi gong zuo tai	200
+材质属性	cai zhi shu xing	200
+参考约束	can kao yue shu	200
+槽工具	cao gong ju	200
+草绘	cao hui	200
+草绘捕捉	cao hui bu zhuo	200
+草绘工具	cao hui gong ju	200
+草绘修改	cao hui xiu gai	200
+草绘注释	cao hui zhu shi	200
+草绘转草图	cao hui zhuan cao tu	200
+草图法向	cao tu fa xiang	200
+草图方向	cao tu fang xiang	200
+草图附着	cao tu fu zhuo	200
+草图验证	cao tu yan zheng	200
+草图映射	cao tu ying she	200
+草图坐标轴	cao tu zuo biao zhou	200
+层叠垂直尺寸	ceng die chui zhi chi cun	200
+层叠倾斜尺寸	ceng die qing xie chi cun	200
+层叠水平尺寸	ceng die shui ping chi cun	200
+插铣	cha xi	200
+长度尺寸	chang du chi cun	200
+长方体尺寸	chang fang ti chi cun	200
+沉孔	chen kong	200
+尺寸标注	chi cun biao zhu	200
+尺寸标注约束	chi cun biao zhu yue shu	200
+尺寸格式	chi cun ge shi	200
+尺寸工具	chi cun gong ju	200
+尺寸线角度	chi cun xian jiao du	200
+尺寸线延伸量	chi cun xian yan shen liang	200
+尺寸修复	chi cun xiu fu	200
+尺寸约束	chi cun yue shu	200
+齿轮齿条	chi lun chi tiao	200
+齿轮齿条配合	chi lun chi tiao pei he	200
+齿轮模数	chi lun mo shu	200
+齿轮配合	chi lun pei he	200
+齿轮压力角	chi lun ya li jiao	200
+齿轮约束	chi lun yue shu	200
+齿轮直径	chi lun zhi jing	200
+重复点	chong fu dian	200
+重复面	chong fu mian	200
+重合约束	chong he yue shu	200
+重绘页面	chong hui ye mian	200
+抽壳	chou ke	200
+垂直草图轴	chui zhi cao tu zhou	200
+垂直长度尺寸	chui zhi chang du chi cun	200
+垂直尺寸	chui zhi chi cun	200
+垂直倒角标注	chui zhi dao jiao biao zhu	200
+垂直度	chui zhi du	200
+垂直对齐	chui zhi dui qi	200
+垂直范围	chui zhi fan wei	200
+垂直范围尺寸	chui zhi fan wei chi cun	200
+垂直截面	chui zhi jie mian	200
+垂直进给	chui zhi jin ji	200
+垂直进给速度	chui zhi jin ji su du	200
+垂直距离	chui zhi ju li	200
+垂直链式标注	chui zhi lian shi biao zhu	200
+垂直配合	chui zhi pei he	200
+垂直约束	chui zhi yue shu	200
+垂直轴线	chui zhi zhou xian	200
+垂直坐标标注	chui zhi zuo biao biao zhu	200
+次要网格线	ci yao wang ge xian	200
+大径	da jing	157
+达索系统	da suo xi tong	200
+打印所有页面	da yin suo you ye mian	200
+打印预览	da yin yu lan	200
+带轮直径	dai lun zhi jing	200
+刀柄直径	dao bing zhi jing	200
+刀尖角	dao jian jiao	200
+刀尖直径	dao jian zhi jing	200
+倒角	dao jiao	200
+倒角边缘	dao jiao bian yuan	200
+刀具编号	dao ju bian hao	200
+刀具材料	dao ju cai liao	200
+刀具控制器	dao ju kong zhi qi	200
+刀具路径方向	dao ju lu jing fang xiang	200
+刀具数据	dao ju shu ju	200
+刀具形状	dao ju xing zhuang	200
+刀具直径	dao ju zhi jing	200
+刀具总长度	dao ju zong chang du	200
+等轴测	deng zhou ce	200
+第三角	di san jiao	200
+底视图	di shi tu	200
+第四轴曲面加工	di si zhou qu mian jia gong	200
+第一角	di yi jiao	200
+点划线	dian hua xian	200
+点在对象上约束	dian zai dui xiang shang yue shu	200
+点阵列	dian zhen lie	200
+雕刻加工	diao ke jia gong	200
+冻结视图	dong jie shi tu	200
+短边	duan bian	200
+断裂线	duan lie xian	200
+断裂线样式	duan lie xian yang shi	200
+端面铣	duan mian xi	200
+对称图元	dui chen tu yuan	200
+对称约束	dui chen yue shu	200
+多重变换	duo chong bian huan	200
+多截面	duo jie mian	200
+多轴	duo zhou	200
+二维点	er wei dian	200
+二维阵列	er wei zhen lie	200
+二轴测	er zhou ce	200
+法向	fa xiang	200
+法向草图轴	fa xiang cao tu zhou	200
+反向路径	fan xiang lu jing	200
+反向旋转	fan xiang xuan zhuan	200
+翻转标注	fan zhuan biao zhu	200
+翻转法线	fan zhuan fa xian	200
+翻转网格法线	fan zhuan wang ge fa xian	200
+放样	fang yang	200
+非均匀缩放	fei jun yun suo fang	200
+分割边	fen ge bian	200
+分割网格	fen ge wang ge	200
+分割形状	fen ge xing zhuang	200
+分配毛坯材料	fen pei mao pi cai liao	200
+封闭孔	feng bi kong	200
+缝合形状	feng he xing zhuang	200
+腹板厚度	fu ban hou du	200
+副法线	fu fa xian	200
+复合工具	fu he gong ju	200
+复合实体	fu he shi ti	200
+附加草图	fu jia cao tu	200
+富文本注释	fu wen ben zhu shi	200
+复杂剖面	fu za pou mian	200
+复杂剖面视图	fu za pou mian shi tu	200
+辅助几何图形	fu zhu ji he tu xing	200
+钢筋工具	gang jin gong ju	200
+钢筋直径	gang jin zhi jing	200
+刚体约束	gang ti yue shu	200
+刚性子装配体	gang xing zi zhuang pei ti	200
+更新剖面线	geng xin pou mian xian	200
+更新装饰线	geng xin zhuang shi xian	200
+更新装饰圆	geng xin zhuang shi yuan	200
+公差信息	gong cha xin xi	200
+攻丝钻孔	gong si zuan kong	200
+共享视图	gong xiang shi tu	200
+工作偏移	gong zuo pian yi	200
+工作平面	gong zuo ping mian	200
+工作平面代理	gong zuo ping mian dai li	200
+工作平面视图	gong zuo ping mian shi tu	200
+工作坐标系	gong zuo zuo biao xi	200
+狗骨圆角	gou gu yuan jiao	200
+构件立面	gou jian li mian	200
+固定间距	gu ding jian ju	200
+固定约束	gu ding yue shu	200
+拐角半径	guai jiao ban jing	200
+拐角过渡	guai jiao guo du	200
+管道分支	guan dao fen zhi	200
+管道工具	guan dao gong ju	200
+管理门和窗	guan li men he chuang	200
+管理图层	guan li tu ceng	200
+惯性矩阵	guan xing ju zhen	200
+光标十字线	guang biao shi zi xian	200
+过度约束	guo du yue shu	200
+过滤共线	guo lv gong xian	200
+焊接符号	han jie fu hao	200
+恒定半径	heng ding ban jing	200
+厚度参数	hou du can shu	200
+后视图	hou shi tu	200
+弧长标注	hu chang biao zhu	200
+弧形槽	hu xing cao	200
+环形阵列	huan xing zhen lie	200
+绘制椭圆	hui zhi tuo yuan	200
+绘制圆	hui zhi yuan	200
+混合曲线	hun he qu xian	200
+活动视图	huo dong shi tu	200
+基础特征	ji chu te zheng	200
+基础图元	ji chu tu yuan	200
+几何剖面线	ji he pou mian xian	200
+几何填充	ji he tian chong	200
+几何图形	ji he tu xing	200
+几何图元	ji he tu yuan	200
+几何中心	ji he zhong xin	200
+激活图层	ji huo tu ceng	200
+激活装配体	ji huo zhuang pei ti	200
+极角	ji jiao	200
+计算边长度	ji suan bian chang du	200
+计算面面积	ji suan mian mian ji	200
+基准点	ji zhun dian	200
+基准面	ji zhun mian	200
+基准平面	ji zhun ping mian	200
+极坐标链接阵列	ji zuo biao lian jie zhen lie	200
+极坐标阵列	ji zuo biao zhen lie	200
+检查材质	jian cha cai zhi	200
+检查几何	jian cha ji he	200
+检查外观	jian cha wai guan	200
+剪辑组	jian ji zu	200
+渐开线齿轮	jian kai xian chi lun	200
+建立平面	jian li ping mian	200
+建立网格	jian li wang ge	200
+减料放样	jian liao fang yang	200
+减料管道	jian liao guan dao	200
+减料棱柱体	jian liao leng zhu ti	200
+减料立方体	jian liao li fang ti	200
+减料螺旋	jian liao luo xuan	200
+减料球体	jian liao qiu ti	200
+减料特征	jian liao te zheng	200
+减料图元	jian liao tu yuan	200
+减料椭球体	jian liao tuo qiu ti	200
+减料楔形体	jian liao xie xing ti	200
+减料圆环体	jian liao yuan huan ti	200
+减料圆柱体	jian liao yuan zhu ti	200
+减料圆锥体	jian liao yuan zhui ti	200
+建模螺纹	jian mo luo wen	200
+剪切到草图	jian qie dao cao tu	200
+剪切元素	jian qie yuan su	200
+减少小数位	jian shao xiao shu wei	200
+减小半径	jian xiao ban jing	200
+建筑布局	jian zhu bu ju	200
+建筑轮廓	jian zhu lun kuo	200
+降低节点重数	jiang di jie dian chong shu	200
+角度捕捉	jiao du bu zhuo	200
+角度尺寸	jiao du chi cun	200
+角度间距	jiao du jian ju	200
+角度配合	jiao du pei he	200
+角度偏差	jiao du pian cha	200
+节点工具	jie dian gong ju	200
+结构化点云	jie gou hua dian yun	200
+节距半径	jie ju ban jing	200
+截面边	jie mian bian	200
+截面视图	jie mian shi tu	200
+解算装配体	jie suan zhuang pei ti	200
+阶梯式倾斜标注	jie ti shi qing xie biao zhu	200
+阶梯式水平标注	jie ti shi shui ping biao zhu	200
+进给	jin ji	200
+进给和转速	jin ji he zhuan su	200
+进给和转速向导	jin ji he zhuan su xiang dao	200
+进给速度	jin ji su du	200
+精加工轮廓	jing jia gong lun kuo	200
+精加工下切步距	jing jia gong xia qie bu ju	200
+精加工走刀	jing jia gong zou dao	200
+精简网格	jing jian wang ge	200
+镜像参数	jing xiang can shu	200
+镜像草图	jing xiang cao tu	200
+径向距离	jing xiang ju li	200
+镜像平面	jing xiang ping mian	200
+镜像网格	jing xiang wang ge	200
+径向预留余量	jing xiang yu liu yu liang	200
+镜像轴	jing xiang zhou	200
+局部视图	ju bu shi tu	200
+距离尺寸	ju li chi cun	200
+矩形参数	ju xing can shu	200
+矩形阵列	ju xing zhen lie	200
+居中草图	ju zhong cao tu	200
+居中矩形	ju zhong ju xing	200
+居中视图	ju zhong shi tu	200
+均匀缩放	jun yun suo fang	200
+开口圆	kai kou yuan	200
+可变半径	ke bian ban jing	200
+孔参数	kong can shu	200
+孔大径	kong da jing	200
+空间边界	kong jian bian jie	200
+孔间距	kong jian ju	200
+孔配合	kong pei he	200
+孔小径	kong xiao jing	200
+快速测量	kuai su ce liang	200
+扩展尺寸	kuo zhan chi cun	200
+扩展刀轨终点	kuo zhan dao gui zhong dian	200
+拉伸高度	la shen gao du	200
+拉伸面	la shen mian	200
+离开草图	li kai cao tu	200
+离散化偏差	li san hua pian cha	200
+立体视图	li ti shi tu	200
+立铣刀	li xi dao	200
+联合几何图形	lian he ji he tu xing	200
+连接曲线	lian jie qu xian	200
+连接形状	lian jie xing zhuang	200
+链接阵列	lian jie zhen lie	200
+连续线	lian xu xian	200
+梁截面	liang jie mian	200
+两面相交线	liang mian xiang jiao xian	200
+零件编号	ling jian bian hao	200
+零件工具	ling jian gong ju	200
+零件基准	ling jian ji zhun	200
+零件设计	ling jian she ji	200
+零件信息	ling jian xin xi	200
+路径方向	lu jing fang xiang	200
+路径链接阵列	lu jing lian jie zhen lie	200
+路径阵列	lu jing zhen lie	200
+轮廓铣	lun kuo xi	200
+螺距	luo ju	200
+螺栓圆中心线	luo shuan yuan zhong xin xian	200
+螺纹铣刀	luo wen xi dao	200
+螺旋体	luo xuan ti	200
+螺旋线	luo xuan xian	200
+埋头孔	mai tou kong	200
+埋头孔角度	mai tou kong jiao du	200
+盲孔	mang kong	200
+面法线	mian fa xian	200
+面工具	mian gong ju	200
+面积注释	mian ji zhu shi	200
+面轮廓度	mian lun kuo du	200
+面上的中心线	mian shang de zhong xin xian	200
+面信息	mian xin xi	200
+模型结构	mo xing jie gou	200
+目视检查	mu shi jian cha	200
+内半径	nei ban jing	200
+内孔直径	nei kong zhi jing	200
+逆时针旋转	ni shi zhen xuan zhuan	200
+逆铣	ni xi	200
+欧特克	ou te ke	200
+抛物线弧	pao wu xian hu	200
+匹配工作平面	pi pei gong zuo ping mian	200
+偏移参数	pian yi can shu	200
+偏移工具	pian yi gong ju	200
+偏移角度	pian yi jiao du	200
+偏移距离	pian yi ju li	200
+评估和修复网格	ping gu he xiu fu wang ge	200
+评估实体	ping gu shi ti	200
+平滑公差	ping hua gong cha	200
+平滑网格	ping hua wang ge	200
+平滑网格法线	ping hua wang ge fa xian	200
+平面度	ping mian du	200
+平面化	ping mian hua	200
+平面剖切	ping mian pou qie	200
+平面剖切网格	ping mian pou qie wang ge	200
+平行度	ping xing du	200
+平行配合	ping xing pei he	200
+平行四边形	ping xing si bian xing	200
+平行移动图元	ping xing yi dong tu yuan	200
+平行约束	ping xing yue shu	200
+剖面切割	pou mian qie ge	200
+剖面线	pou mian xian	200
+剖面线样式	pou mian xian yang shi	200
+剖切面	pou qie mian	200
+剖切视图	pou qie shi tu	200
+七边形	qi bian xing	200
+起点高度	qi dian gao du	200
+起始角度	qi shi jiao du	200
+起始偏移	qi shi pian yi	200
+嵌入形状	qian ru xing zhuang	200
+前视图	qian shi tu	200
+切出角度	qie chu jiao du	200
+切割点云	qie ge dian yun	200
+切割面	qie ge mian	200
+切割区域	qie ge qu yu	200
+切割相交对象	qie ge xiang jiao dui xiang	200
+切平面	qie ping mian	200
+切入角度	qie ru jiao du	200
+切削半径	qie xiao ban jing	200
+切削策略	qie xiao ce lve	200
+切削角度	qie xiao jiao du	200
+切削刃长度	qie xiao ren chang du	200
+切削刃高度	qie xiao ren gao du	200
+切削刃角度	qie xiao ren jiao du	200
+切削速度	qie xiao su du	200
+切削直径	qie xiao zhi jing	200
+清除特征	qing chu te zheng	200
+倾斜链式标注	qing xie lian shi biao zhu	200
+倾斜坐标标注	qing xie zuo biao biao zhu	200
+球头刀	qiu tou dao	200
+球窝配合	qiu wo pei he	200
+曲率图	qu lv tu	200
+曲率信息	qu lv xin xi	200
+曲面切割	qu mian qie ge	200
+曲面细分	qu mian xi fen	200
+区域工作平面	qu yu gong zuo ping mian	200
+全局质心	quan ju zhi xin	200
+全局坐标系	quan ju zuo biao xi	200
+任务面板布局	ren wu mian ban bu ju	200
+日照图	ri zhao tu	200
+冗余线框	rong yu xian kuang	200
+冗余约束	rong yu yue shu	200
+三次贝塞尔曲线	san ci bei sai er qu xian	200
+三点创建椭圆	san dian chuang jian tuo yuan	200
+三点创建圆	san dian chuang jian yuan	200
+三点创建圆弧	san dian chuang jian yuan hu	200
+三点圆弧	san dian yuan hu	200
+三角形方向	san jiao xing fang xiang	200
+三维点	san wei dian	200
+三维视图	san wei shi tu	200
+三维阵列	san wei zhen lie	200
+三轴测	san zhou ce	200
+扫掠	sao lve	200
+扫掠路径	sao lve lu jing	200
+上公差	shang gong cha	200
+上视图	shang shi tu	200
+上移一层	shang yi yi ceng	200
+深度偏移	shen du pian yi	200
+拾取曲线网络	shi qu qu xian wang luo	200
+实体网格	shi ti wang ge	200
+视图堆叠顺序	shi tu dui die shun xu	200
+视图管理器	shi tu guan li qi	200
+视图缩放比	shi tu suo fang bi	200
+输入半径	shu ru ban jing	200
+属性视图	shu xing shi tu	200
+竖直约束	shu zhi yue shu	200
+刷新视图	shua xin shi tu	200
+双点划线	shuang dian hua xian	200
+双面渲染	shuang mian xuan ran	200
+双曲线	shuang qu xian	200
+双曲线弧	shuang qu xian hu	200
+水平草图轴	shui ping cao tu zhou	200
+水平长度尺寸	shui ping chang du chi cun	200
+水平尺寸	shui ping chi cun	200
+水平倒角标注	shui ping dao jiao biao zhu	200
+水平对齐	shui ping dui qi	200
+水平范围	shui ping fan wei	200
+水平范围尺寸	shui ping fan wei chi cun	200
+水平截面	shui ping jie mian	200
+水平进给	shui ping jin ji	200
+水平进给速度	shui ping jin ji su du	200
+水平距离	shui ping ju li	200
+水平链式标注	shui ping lian shi biao zhu	200
+水平约束	shui ping yue shu	200
+水平轴线	shui ping zhou xian	200
+水平坐标标注	shui ping zuo biao biao zhu	200
+顺时针旋转	shun shi zhen xuan zhuan	200
+顺铣	shun xi	147
+丝锥直径	si zhui zhi jing	200
+缩短直线	suo duan zhi xian	200
+缩放参数	suo fang can shu	200
+缩放图元	suo fang tu yuan	200
+缩放网格	suo fang wang ge	200
+体积中心	ti ji zhong xin	200
+填充边界曲线	tian chong bian jie qu xian	200
+填充孔	tian chong kong	200
+填充图案	tian chong tu an	200
+调整草图方向	tiao zheng cao tu fang xiang	200
+调整视图方向	tiao zheng shi tu fang xiang	200
+调整网格尺寸	tiao zheng wang ge chi cun	200
+调整造型	tiao zheng zao xing	200
+同心圆	tong xin yuan	200
+统一法线	tong yi fa xian	200
+同轴配合	tong zhou pei he	200
+透视视图	tou shi shi tu	200
+透视渲染	tou shi xuan ran	200
+投影到曲面	tou ying dao qu mian	200
+投影形状	tou ying xing zhuang	200
+投影组	tou ying zu	200
+图层管理器	tu ceng guan li qi	200
+凸台	tu tai	200
+凸台参数	tu tai can shu	200
+图像尺寸	tu xiang chi cun	200
+图像剖面线	tu xiang pou mian xian	200
+图纸空间对象	tu zhi kong jian dui xiang	200
+退化几何	tui hua ji he	200
+拖动尺寸	tuo dong chi cun	200
+拖动几何图形	tuo dong ji he tu xing	200
+拖动曲线	tuo dong qu xian	200
+拖动约束	tuo dong yue shu	200
+椭圆弧	tuo yuan hu	200
+椭圆体	tuo yuan ti	200
+挖槽	wa cao	200
+外半径	wai ban jing	200
+外部几何图形	wai bu ji he tu xing	200
+外部几何元素	wai bu ji he yuan su	200
+外部投影	wai bu tou ying	200
+外部相交	wai bu xiang jiao	200
+外齿轮	wai chi lun	200
+外接圆半径	wai jie yuan ban jing	200
+外径	wai jing	200
+弯曲角度	wan qu jiao du	200
+完全约束	wan quan yue shu	200
+网格并集	wang ge bing ji	200
+网格布尔运算	wang ge bu er yun suan	200
+网格差集	wang ge cha ji	200
+网格拆分	wang ge chai fen	200
+网格到形状转换	wang ge dao xing zhuang zhuan huan	200
+网格分割	wang ge fen ge	200
+网格分析	wang ge fen xi	200
+网格格式	wang ge ge shi	200
+网格工具	wang ge gong ju	200
+网格合并	wang ge he bing	200
+网格和捕捉	wang ge he bu zhuo	200
+网格化公差	wang ge hua gong cha	200
+网格间距	wang ge jian ju	200
+网格交集	wang ge jiao ji	200
+网格精简	wang ge jing jian	200
+网格平滑化	wang ge ping hua hua	200
+网格切割	wang ge qie ge	200
+网格上的曲线	wang ge shang de qu xian	200
+网格生成器	wang ge sheng cheng qi	200
+网格缩放	wang ge suo fang	200
+网格细化	wang ge xi hua	200
+网格信息	wang ge xin xi	200
+网格修复	wang ge xiu fu	200
+网格至形状	wang ge zhi xing zhuang	200
+网格转形状	wang ge zhuan xing zhuang	200
+网格组	wang ge zu	200
+位图图像	wei tu tu xiang	200
+文本注释	wen ben zhu shi	200
+纹理符号	wen li fu hao	200
+细分形状	xi fen xing zhuang	200
+吸附到网格	xi fu dao wang ge	200
+吸附角度	xi fu jiao du	200
+下公差	xia gong cha	200
+下移一层	xia yi yi ceng	200
+线宽组	xian kuan zu	200
+线轮廓度	xian lun kuo du	200
+线条属性	xian tiao shu xing	200
+线条图案	xian tiao tu an	200
+线条样式	xian tiao yang shi	200
+线型	xian xing	200
+线型标准	xian xing biao zhun	200
+线性链接阵列	xian xing lian jie zhen lie	200
+线性阵列	xian xing zhen lie	200
+相等约束	xiang deng yue shu	200
+向后移动特征	xiang hou yi dong te zheng	200
+相交线框	xiang jiao xian kuang	200
+相切约束	xiang qie yue shu	200
+详图	xiang tu	200
+象限顶点	xiang xian ding dian	200
+斜坡角度	xie po jiao du	200
+斜坡进给	xie po jin ji	200
+斜向进给速率	xie xiang jin ji su lv	200
+新零件	xin ling jian	200
+新图层	xin tu ceng	200
+形状构建器	xing zhuang gou jian qi	200
+形状链接器	xing zhuang lian jie qi	200
+形状生成器	xing zhuang sheng cheng qi	200
+形状元素复制	xing zhuang yuan su fu zhi	200
+修复尺寸标注	xiu fu chi cun biao zhu	200
+修复尺寸参考	xiu fu chi cun can kao	200
+修复网格	xiu fu wang ge	200
+修复指数	xiu fu zhi shu	200
+修复自相交	xiu fu zi xiang jiao	200
+修剪边	xiu jian bian	200
+修剪边缘	xiu jian bian yuan	200
+修剪网格	xiu jian wang ge	200
+修饰顶点	xiu shi ding dian	200
+修饰线	xiu shi xian	200
+修整特征	xiu zheng te zheng	200
+旋转参数	xuan zhuan can shu	200
+旋转配合	xuan zhuan pei he	200
+旋转体	xuan zhuan ti	200
+旋转图元	xuan zhuan tu yuan	200
+旋转中心	xuan zhuan zhong xin	200
+旋转轴	xuan zhuan zhou	200
+压力角	ya li jiao	200
+延长边	yan chang bian	200
+延伸边	yan shen bian	200
+延伸公差带	yan shen gong cha dai	200
+延伸拐角	yan shen guai jiao	200
+延伸面	yan shen mian	200
+延伸曲面	yan shen qu mian	200
+验证草图	yan zheng cao tu	200
+验证形状	yan zheng xing zhuang	200
+样条逼近	yang tiao bi jin	200
+样条曲线工具	yang tiao qu xian gong ju	200
+页面比例	ye mian bi li	200
+移除裁剪组	yi chu cai jian zu	200
+移除几何图形	yi chu ji he tu xing	200
+移除前缀	yi chu qian zhui	200
+移除实体	yi chu shi ti	200
+移除特征	yi chu te zheng	200
+移除退化的面	yi chu tui hua de mian	200
+移到原点	yi dao yuan dian	200
+依赖关系图	yi lai guan xi tu	200
+以平面修剪网格	yi ping mian xiu jian wang ge	200
+翼缘厚度	yi yuan hou du	200
+映射草图	ying she cao tu	200
+影子克隆	ying zi ke long	200
+优化曲面	you hua qu mian	200
+优化线性路径	you hua xian xing lu jing	200
+优化形状	you hua xing zhuang	200
+优化形状特征	you hua xing zhuang te zheng	200
+右视图	you shi tu	200
+圆度	yuan du	200
+圆弧工具	yuan hu gong ju	200
+圆环体	yuan huan ti	200
+圆角半径	yuan jiao ban jing	200
+圆角边	yuan jiao bian	200
+圆角铣刀	yuan jiao xi dao	200
+圆跳动	yuan tiao dong	200
+圆中心线	yuan zhong xin xian	200
+圆周链接阵列	yuan zhou lian jie zhen lie	200
+圆周阵列	yuan zhou zhen lie	200
+圆柱度	yuan zhu du	200
+圆锥角	yuan zhui jiao	200
+圆锥体	yuan zhui ti	200
+约束不足	yue shu bu zu	200
+约束符号	yue shu fu hao	200
+约束工具	yue shu gong ju	200
+增大半径	zeng da ban jing	200
+增加节点重数	zeng jia jie dian chong shu	200
+增料棱柱体	zeng liao leng zhu ti	200
+增料立方体	zeng liao li fang ti	200
+增料球体	zeng liao qiu ti	200
+增料特征	zeng liao te zheng	200
+增料图元	zeng liao tu yuan	200
+增料椭球体	zeng liao tuo qiu ti	200
+增料楔形体	zeng liao xie xing ti	200
+增料圆环体	zeng liao yuan huan ti	200
+增料圆柱体	zeng liao yuan zhu ti	200
+增料圆锥体	zeng liao yuan zhui ti	200
+展开面	zhan kai mian	200
+展开网格	zhan kai wang ge	200
+折痕角	zhe hen jiao	200
+阵列参数	zhen lie can shu	200
+阵列工具	zhen lie gong ju	200
+正交视图	zheng jiao shi tu	200
+正交阵列	zheng jiao zhen lie	200
+支撑曲面	zhi cheng qu mian	200
+直径尺寸	zhi jing chi cun	200
+直径符号	zhi jing fu hao	200
+直径约束	zhi jing yue shu	200
+制图规范	zhi tu gui fan	200
+直纹面	zhi wen mian	200
+直纹曲面	zhi wen qu mian	200
+直线参数	zhi xian can shu	200
+直线度	zhi xian du	200
+质心	zhi xin	200
+置于底层	zhi yu di ceng	200
+置于顶层	zhi yu ding ceng	200
+制作副本	zhi zuo fu ben	200
+中心线样式	zhong xin xian yang shi	200
+中性面	zhong xing mian	200
+轴测长度尺寸	zhou ce chang du chi cun	200
+轴测图	zhou ce tu	200
+轴承约束	zhou cheng yue shu	200
+轴配合	zhou pei he	200
+轴设计向导	zhou she ji xiang dao	200
+轴网	zhou wang	200
+轴线工具	zhou xian gong ju	200
+轴线系统	zhou xian xi tong	200
+轴向预留余量	zhou xiang yu liu yu liang	200
+主半径	zhu ban jing	200
+主惯性矩	zhu guan xing ju	200
+主网格线间隔	zhu wang ge xian jian ge	200
+主要网格线	zhu yao wang ge xian	200
+主要网格线间隔	zhu yao wang ge xian jian ge	200
+主轴旋转方向	zhu zhou xuan zhuan fang xiang	200
+主轴转速	zhu zhou zhuan su	200
+装配体配合	zhuang pei ti pei he	200
+装饰单点圆	zhuang shi dan dian yuan	200
+装饰顶点	zhuang shi ding dian	200
+装饰交点顶点	zhuang shi jiao dian ding dian	200
+装饰两点圆	zhuang shi liang dian yuan	200
+装饰平行线	zhuang shi ping xing xian	200
+装饰三点圆	zhuang shi san dian yuan	200
+装饰性垂直线	zhuang shi xing chui zhi xian	200
+装饰圆	zhuang shi yuan	200
+装饰圆弧	zhuang shi yuan hu	200
+锥度球头铣刀	zhui du qiu tou xi dao	200
+着色形状	zhuo se xing zhuang	200
+自定义钢筋	zi ding yi gang jin	200
+自相交线框	zi xiang jiao xian kuang	200
+子形状绑定器	zi xing zhuang bang ding qi	200
+自由边	zi you bian	200
+总厚度	zong hou du	200
+组合约束	zu he yue shu	200
+钻孔操作	zuan kong cao zuo	200
+最大直径	zui da zhi jing	200
+左视图	zuo shi tu	200

@@ -1,0 +1,327 @@
+# Optional vocabulary packs (CAD, industry): names, formats and acronyms (exact spelling, lowercase letters-only reading).
+# Built by scripts/lexicon/curate_packs.py + export_packs.py from researched, source-checked lists; do not edit by hand.
+---
+name: agent_pack_terms
+version: "0.1.0"
+sort: by_weight
+...
+
+Abaqus	abaqus	400
+ABViewer	abviewer	400
+ACIS	acis	400
+AEDT	aedt	400
+Alembic	alembic	400
+Alibre Design	alibredesign	400
+Allplan	allplan	400
+Altair SimSolid	altairsimsolid	400
+Altium Designer	altiumdesigner	400
+AMOLED	amoled	400
+Ansys	ansys	400
+APQP	apqp	400
+Archicad	archicad	400
+ArtiosCAD	artioscad	400
+ASIC	asic	400
+AS-Interface	asinterface	400
+ASME	asme	400
+ASTM	astm	400
+AutoCAD	autocad	400
+AutoCAD Architecture	autocadarchitecture	400
+AutoCAD Electrical	autocadelectrical	400
+Autodesk Alias	autodeskalias	400
+Autodesk Fusion	autodeskfusion	400
+Autodesk Inventor	autodeskinventor	400
+Autodesk Maya	autodeskmaya	400
+Autodesk Navisworks	autodesknavisworks	400
+Autodesk Revit	autodeskrevit	400
+Autodesk Vault	autodeskvault	400
+AutoLISP	autolisp	400
+Automotive SPICE	automotivespice	400
+AutoTURN	autoturn	400
+AWG	awg	400
+BASIC	basic	400
+Beijer Electronics	beijerelectronics	400
+Bentley Systems	bentleysystems	400
+BIM	bim	400
+Blender	blender	400
+Blender CAM	blendercam	400
+BOM	bom	400
+B-Rep	brep	400
+BREP	brep	400
+BrickLink Studio	bricklinkstudio	400
+BricsCAD	bricscad	400
+BricsCAD Shape	bricscadshape	400
+Bricsys	bricsys	400
+BRL-CAD	brlcad	400
+Bureau Veritas	bureauveritas	400
+CAD	cad	400
+CAD/CAM	cadcam	400
+CADSoftTools	cadsofttools	400
+CADSTAR	cadstar	400
+cadwork	cadwork	400
+CAM	cam	400
+CAMWorks	camworks	400
+CAN bus	canbus	400
+CAN FD	canfd	400
+Carbide Create	carbidecreate	400
+CATDrawing	catdrawing	400
+CATPart	catpart	400
+CATProcess	catprocess	400
+CATProduct	catproduct	400
+CFD	cfd	400
+Cimatron	cimatron	400
+CircuitMaker	circuitmaker	400
+CityEngine	cityengine	400
+Clearpath Robotics	clearpathrobotics	400
+CMOS	cmos	400
+CNC	cnc	400
+CoaXPress	coaxpress	400
+COBie	cobie	400
+CODESYS	codesys	400
+COLLADA	collada	400
+Comau	comau	400
+COMOS	comos	400
+CompactRIO	compactrio	400
+COMSOL Multiphysics	comsolmultiphysics	400
+ControlNet	controlnet	400
+CPU	cpu	400
+Creo Elements/View	creoelementsview	400
+Creo Parametric	creoparametric	400
+Critical Manufacturing	criticalmanufacturing	400
+DataCAD	datacad	400
+DELMIA	delmia	400
+DesignSpark Mechanical	designsparkmechanical	400
+DesignSpark PCB	designsparkpcb	400
+DeviceNet	devicenet	400
+DFMEA	dfmea	400
+DGN	dgn	400
+Digital Project	digitalproject	400
+DIN	din	400
+DipTrace	diptrace	400
+DirectLOGIC	directlogic	400
+DirectNET Protocol	directnetprotocol	400
+DisplayPort	displayport	400
+DRAM	dram	400
+DriveWorks	driveworks	400
+DWG	dwg	400
+DXF	dxf	400
+EAGLE	eagle	400
+EasyEDA	easyeda	400
+EEPROM	eeprom	400
+EEVEE	eevee	400
+EFQM	efqm	400
+ERP	erp	400
+ESD	esd	400
+EtherCAT	ethercat	400
+Ethernet APL	ethernetapl	400
+EtherNet/IP	ethernetip	400
+Ethernet Powerlink	ethernetpowerlink	400
+FANUC	fanuc	400
+FBX	fbx	400
+FCStd	fcstd	400
+FEATool Multiphysics	featoolmultiphysics	400
+Femap	femap	400
+FIFO	fifo	400
+FINE MEP	finemep	400
+FireWire	firewire	400
+FlexCAN	flexcan	400
+FMEA	fmea	400
+FMECA	fmeca	400
+Foundation Fieldbus	foundationfieldbus	400
+FPGA	fpga	400
+FreeCAD	freecad	400
+G-code	gcode	400
+GCODE	gcode	400
+GD&T	gdt	400
+GLB	glb	400
+Glodon	glodon	400
+glTF	gltf	400
+Gmsh	gmsh	400
+GPU	gpu	400
+GRAITEC	graitec	400
+Graphisoft	graphisoft	400
+GstarCAD	gstarcad	400
+HDMI	hdmi	400
+HDPE	hdpe	400
+HiCAD	hicad	400
+HMI	hmi	400
+Houdini Karma	houdinikarma	400
+HPGL	hpgl	400
+ICEM Surf	icemsurf	400
+IEEE	ieee	400
+IFC	ifc	400
+IGBT	igbt	400
+IGES	iges	400
+Industrial Ethernet	industrialethernet	400
+Inovance	inovance	400
+IntelliCAD	intellicad	400
+IO-Link	iolink	400
+IRONCAD	ironcad	400
+ISO	iso	400
+JIS	jis	400
+JPEG	jpeg	400
+JTAG	jtag	400
+KeyCreator	keycreator	400
+KiCad	kicad	400
+LeoCAD	leocad	400
+LibreCAD	librecad	400
+LightWave	lightwave	400
+LIMS	lims	400
+LinuxCNC	linuxcnc	400
+MapleSim	maplesim	400
+Marmoset Toolbag	marmosettoolbag	400
+MAVLink	mavlink	400
+MazaCAM	mazacam	400
+MECHATROLINK	mechatrolink	400
+MelsecNet	melsecnet	400
+MEMS	mems	400
+MES	mes	400
+Metasequoia	metasequoia	400
+MicroStation	microstation	400
+MindSphere	mindsphere	400
+Mitsubishi Electric	mitsubishielectric	400
+Modbus	modbus	400
+ModelSim	modelsim	400
+Moldflow	moldflow	400
+MOSFET	mosfet	400
+Motor-CAD	motorcad	400
+MQTT	mqtt	400
+MSC Software	mscsoftware	400
+MTConnect	mtconnect	400
+Multi-Point Interface	multipointinterface	400
+Nastran	nastran	400
+Navisworks	navisworks	400
+NURBS	nurbs	400
+OBJ	obj	400
+Octane Render	octanerender	400
+OLED	oled	400
+Omron	omron	400
+Onshape	onshape	400
+OPC UA	opcua	400
+OpenBuilds CAM	openbuildscam	400
+OpenFlight	openflight	400
+OpenFOAM	openfoam	400
+OpenSafety	opensafety	400
+OpenSCAD	openscad	400
+OpenStudio	openstudio	400
+OpenVSP	openvsp	400
+OptiSLang	optislang	400
+OrCAD	orcad	400
+PackML	packml	400
+Panel PC	panelpc	400
+Parasolid	parasolid	400
+PCB	pcb	400
+PCIe	pcie	400
+PDCA	pdca	400
+PDF	pdf	400
+PDM	pdm	400
+PDMS	pdms	400
+PFMEA	pfmea	400
+PID	pid	400
+PID controller	pidcontroller	400
+Plant Simulation	plantsimulation	400
+PLC	plc	400
+PLCopen	plcopen	400
+PLM	plm	400
+PNG	png	400
+POV-Ray	povray	400
+PPAP	ppap	400
+PROFIBUS	profibus	400
+PROFINET	profinet	400
+PROFIsafe	profisafe	400
+PTC Creo	ptccreo	400
+PTFE	ptfe	400
+Pulsonix	pulsonix	400
+PunchCAD	punchcad	400
+PVC	pvc	400
+PWM	pwm	400
+QA/QC	qaqc	400
+QCAD	qcad	400
+RapidIO	rapidio	400
+RAPIEnet	rapienet	400
+Redshift	redshift	400
+Reis Robotics	reisrobotics	400
+RenderMan	renderman	400
+RFA	rfa	400
+RFEM	rfem	400
+RFID	rfid	400
+RhinoCAM	rhinocam	400
+RISC	risc	400
+RTOS	rtos	400
+RVT	rvt	400
+SafetyBUS p	safetybusp	400
+SafetyNET p	safetynetp	400
+SCADA	scada	400
+SCSI	scsi	400
+SDC Verifier	sdcverifier	400
+SDRAM	sdram	400
+SECS-II	secsii	400
+SERCOS interface	sercosinterface	400
+Serial FPDP	serialfpdp	400
+ShapeManager	shapemanager	400
+Siemens NX	siemensnx	400
+SIMATIC	simatic	400
+Simcenter Amesim	simcenteramesim	400
+SimScale	simscale	400
+SimulationX	simulationx	400
+Simulink	simulink	400
+Six Sigma	sixsigma	400
+SketchUp	sketchup	400
+SketchUp Desktop	sketchupdesktop	400
+SKP	skp	400
+SLDASM	sldasm	400
+SLDDRW	slddrw	400
+SLDPRT	sldprt	400
+SmartCAM	smartcam	400
+SMT	smt	400
+SolidCAM	solidcam	400
+Solid Edge	solidedge	400
+SOLIDWORKS	solidworks	400
+SolveSpace	solvespace	400
+SpaceClaim	spaceclaim	400
+SPC	spc	400
+SprutCAM	sprutcam	400
+SRAM	sram	400
+STEP	step	400
+STEP-NC	stepnc	400
+STL	stl	400
+Structured text	structuredtext	400
+Substance Designer	substancedesigner	400
+SVG	svg	400
+SynqNet	synqnet	400
+Tebis	tebis	400
+Tecnomatix	tecnomatix	400
+Tekla Structures	teklastructures	400
+T-FLEX CAD	tflexcad	400
+TIFF	tiff	400
+Tinkercad	tinkercad	400
+TopSolid	topsolid	400
+Triconex	triconex	400
+TTEthernet	ttethernet	400
+TTP/A	ttpa	400
+TurboCAD	turbocad	400
+UART	uart	400
+UBtech Robotics	ubtechrobotics	400
+UNEF	unef	400
+UniPro	unipro	400
+Universal Robots	universalrobots	400
+USD	usd	400
+USDA	usda	400
+USDC	usdc	400
+USDZ	usdz	400
+VariCAD	varicad	400
+V-block	vblock	400
+Vectorworks	vectorworks	400
+Visi CAD/CAM	visicadcam	400
+VisualARQ	visualarq	400
+VisualCAD/CAM	visualcadcam	400
+Vivado	vivado	400
+VLSI	vlsi	400
+VoluMill	volumill	400
+V-Ray	vray	400
+VRML	vrml	400
+WLAN	wlan	400
+WorkNC	worknc	400
+WorkPLAN	workplan	400
+Xpedition	xpedition	400
+ZBrush	zbrush	400
+ZWCAD	zwcad	400

@@ -1,0 +1,2019 @@
+# Optional vocabulary pack: industry.
+# Built by scripts/lexicon/curate_packs.py + export_packs.py from researched, source-checked lists; do not edit by hand.
+---
+name: agent_pack_industry
+version: "0.1.0"
+sort: by_weight
+...
+
+安川电机	an chuan dian ji	200
+安灯系统	an deng xi tong	200
+暗电流	an dian liu	200
+氨基树脂	an ji shu zhi	200
+氨纶	an lun	200
+按钮开关	an niu kai guan	200
+安全电压	an quan dian ya	200
+安全阀	an quan fa	200
+安全工程	an quan gong cheng	200
+安全工作区	an quan gong zuo qu	200
+安全光栅	an quan guang shan	200
+安全继电器	an quan ji dian qi	200
+安全数据表	an quan shu ju biao	200
+安全系数	an quan xi shu	200
+螯合树脂	ao he shu zhi	200
+奥氏体	ao shi ti	200
+奥氏体不锈钢	ao shi ti bu xiu gang	200
+巴氏合金	ba shi he jin	200
+巴特沃斯滤波器	ba te wo si lv bo qi	200
+百分表	bai fen biao	200
+白铜	bai tong	200
+半波整流	ban bo zheng liu	200
+半导体产业	ban dao ti chan ye	200
+半导体封装	ban dao ti feng zhuang	200
+半导体激光	ban dao ti ji guang	200
+半导体技术	ban dao ti ji shu	200
+半导体器件	ban dao ti qi jian	200
+半导体器件可靠性	ban dao ti qi jian ke kao xing	200
+半导体器件制造	ban dao ti qi jian zhi zao	200
+半导体芯片	ban dao ti xin pian	200
+半导体制造厂	ban dao ti zhi zao chang	200
+半径样板	ban jing yang ban	200
+板上芯片	ban shang xin pian	200
+扳手尺寸	ban shou chi cun	200
+半自动化	ban zi dong hua	200
+饱和电流	bao he dian liu	200
+保护继电器	bao hu ji dian qi	200
+刨花板	bao hua ban	200
+包金	bao jin	178
+报警阀	bao jing fa	200
+爆破作业	bao po zuo ye	200
+爆炸焊	bao zha han	200
+被测器件	bei ce qi jian	200
+备件箱	bei jian xiang	200
+倍频器	bei pin qi	200
+贝氏体	bei shi ti	200
+倍压器	bei ya qi	200
+本质安全设计	ben zhi an quan she ji	200
+泵送性	beng song xing	200
+笔刀	bi dao	108
+避雷器	bi lei qi	200
+避雷针	bi lei zhen	200
+比例阀	bi li fa	200
+比热容	bi re rong	200
+比体积	bi ti ji	200
+避障	bi zhang	125
+比重量	bi zhong liang	200
+变电器	bian dian qi	200
+边界层	bian jie ceng	200
+变流技术	bian liu ji shu	200
+变配电	bian pei dian	200
+变频电动机	bian pin dian dong ji	200
+变频管	bian pin guan	200
+变速齿轮	bian su chi lun	200
+表面处理	biao mian chu li	200
+表面淬火	biao mian cui huo	200
+表面电阻	biao mian dian zu	200
+表面活化键合	biao mian huo hua jian he	200
+表面纹理	biao mian wen li	200
+表面硬化	biao mian ying hua	200
+表面张力	biao mian zhang li	200
+标准大气压	biao zhun da qi ya	200
+标准电池	biao zhun dian chi	200
+标准气压	biao zhun qi ya	200
+标准误差	biao zhun wu cha	200
+并网逆变器	bing wang ni bian qi	200
+丙烯酸系树脂	bing xi suan xi shu zhi	200
+波导管	bo dao guan	200
+波导开关	bo dao kai guan	200
+铂电阻	bo dian zu	200
+薄钢板	bo gang ban	200
+玻璃工艺	bo li gong yi	200
+玻璃机械	bo li ji xie	200
+玻璃陶瓷	bo li tao ci	200
+薄膜电容器	bo mo dian rong qi	200
+薄膜开关	bo mo kai guan	200
+波形因数	bo xing yin shu	200
+布赫继电器	bu he ji dian qi	200
+步进马达	bu jin ma da	200
+步进式	bu jin shi	200
+步进式光刻机	bu jin shi guang ke ji	200
+布拉维晶格	bu la wei jing ge	200
+不良率	bu liang lv	200
+不锈钢板	bu xiu gang ban	200
+不锈钢材	bu xiu gang cai	200
+不锈钢复合板	bu xiu gang fu he ban	200
+不锈钢管	bu xiu gang guan	200
+不锈钢丝	bu xiu gang si	200
+不锈钢网	bu xiu gang wang	200
+彩钢板	cai gang ban	200
+材料强度	cai liao qiang du	200
+彩色钢板	cai se gang ban	200
+参考电压	can kao dian ya	200
+参考设计	can kao she ji	200
+参数振荡器	can shu zhen dang qi	200
+残余应力	can yu ying li	200
+仓储笼	cang chu long	200
+仓储业	cang chu ye	200
+测角仪	ce jiao yi	200
+测量点	ce liang dian	200
+测量方法	ce liang fang fa	200
+测量杆	ce liang gan	200
+测量机	ce liang ji	200
+测量轮	ce liang lun	200
+测量深度	ce liang shen du	200
+测量误差	ce liang wu cha	200
+测量仪	ce liang yi	200
+测量仪器	ce liang yi qi	200
+测量员	ce liang yuan	200
+参差调谐	cen ci tiao xie	200
+层流	ceng liu	200
+层压	ceng ya	200
+插件机	cha jian ji	200
+产能规划	chan neng gui hua	200
+产品检验	chan pin jian yan	200
+产品缺陷	chan pin que xian	200
+产品生命周期	chan pin sheng ming zhou qi	200
+产品质量法	chan pin zhi liang fa	200
+长鞭效应	chang bian xiao ying	200
+场效应管放大器	chang xiao ying guan fang da qi	200
+超合金	chao he jin	200
+超润滑	chao run hua	200
+超声波焊接	chao sheng bo han jie	200
+超声换能器	chao sheng huan neng qi	200
+超声仪	chao sheng yi	200
+潮湿敏感等级	chao shi min gan deng ji	200
+超塑成型	chao su cheng xing	200
+超细纤维	chao xi xian wei	200
+车刀	che dao	200
+车铣刨磨	che xi bao mo	200
+车削	che xue	200
+成分分析报告	cheng fen fen xi bao gao	200
+成批生产	cheng pi sheng chan	200
+成型机	cheng xing ji	200
+成型加工	cheng xing jia gong	200
+齿槽转矩	chi cao zhuan ju	200
+齿轮泵	chi lun beng	200
+齿轮油	chi lun you	200
+齿轮轴	chi lun zhou	200
+持续改进	chi xu gai jin	200
+重布线层	chong bu xian ceng	200
+冲床	chong chuang	200
+冲床工	chong chuang gong	200
+充电电池	chong dian dian chi	200
+充电电流	chong dian dian liu	200
+充电机	chong dian ji	200
+充电控制器	chong dian kong zhi qi	200
+冲击锤	chong ji chui	200
+冲击韧性	chong ji ren xing	200
+冲激响应	chong ji xiang ying	200
+充气泵	chong qi beng	200
+冲洗阀	chong xi fa	200
+重新装配	chong xin zhuang pei	200
+冲压机	chong ya ji	200
+冲压件	chong ya jian	200
+抽水泵	chou shui beng	200
+抽样误差	chou yang wu cha	200
+抽油泵	chou you beng	200
+触变性	chu bian xing	200
+除静电	chu jing dian	200
+触觉传感器	chu jue chuan gan qi	200
+传导电流	chuan dao dian liu	200
+传递函数矩阵	chuan di han shu ju zhen	200
+传动带	chuan dong dai	200
+传动件	chuan dong jian	200
+传动链	chuan dong lian	200
+传热系数	chuan re xi shu	200
+穿透电流	chuan tou dian liu	200
+传质	chuan zhi	200
+垂直整合	chui zhi zheng he	200
+醇酸树脂	chun suan shu zhi	200
+磁放大器	ci fang da qi	200
+磁力泵	ci li beng	200
+磁性齿轮	ci xing chi lun	200
+磁性底座	ci xing di zuo	200
+磁阻马达	ci zu ma da	200
+粗加工	cu jia gong	200
+醋酸纤维素	cu suan xian wei su	200
+淬火	cui huo	200
+淬火炉	cui huo lu	200
+淬火装置	cui huo zhuang zhi	200
+脆性	cui xing	200
+存储电容	cun chu dian rong	200
+存货单位	cun huo dan wei	200
+存货管理	cun huo guan li	200
+存货控制	cun huo kong zhi	200
+存货生产	cun huo sheng chan	200
+存货周转	cun huo zhou zhuan	200
+锉刀	cuo dao	200
+大规模生产	da gui mo sheng chan	200
+打孔机	da kong ji	200
+大量库存	da liang ku cun	200
+大量生产	da liang sheng chan	200
+大批量生产	da pi liang sheng chan	200
+大气压	da qi ya	200
+大气压力	da qi ya li	200
+打线接合	da xian jie he	200
+带电作业	dai dian zuo ye	200
+代工厂	dai gong chang	200
+代工生产	dai gong sheng chan	200
+代加工	dai jia gong	200
+单调作业	dan diao zuo ye	200
+氮化硼	dan hua peng	200
+单极马达	dan ji ma da	200
+单粒子翻转	dan li zi fan zhuan	200
+单列直插式封装	dan lie zhi cha shi feng zhuang	200
+单向阀	dan xiang fa	200
+氮氧化硅	dan yang hua gui	200
+单元过程	dan yuan guo cheng	200
+挡圈	dang quan	200
+倒单摆	dao dan bai	200
+导轨油	dao gui you	200
+刀开关	dao kai guan	200
+导抗	dao kang	200
+导热膏	dao re gao	200
+倒双摆	dao shuang bai	200
+导线架	dao xian jia	200
+导向误差	dao xiang wu cha	200
+倒装芯片	dao zhuang xin pian	200
+等离子喷涂	deng li zi pen tu	200
+等离子清洗	deng li zi qing xi	200
+等离子渗氮	deng li zi shen dan	200
+等离子体活化	deng li zi ti huo hua	200
+等离子体活化键合	deng li zi ti huo hua jian he	200
+等离子体蚀刻	deng li zi ti shi ke	200
+等温退火	deng wen tui huo	200
+等效串联电感	deng xiao chuan lian dian gan	200
+等效串联电阻	deng xiao chuan lian dian zu	200
+低电压	di dian ya	200
+低功耗设计	di gong hao she ji	200
+低合金钢	di he jin gang	200
+低密度聚乙烯	di mi du ju yi xi	200
+低碳钢	di tan gang	200
+低温泵	di wen beng	200
+低温多晶硅	di wen duo jing gui	200
+低压差稳压器	di ya cha wen ya qi	200
+低压电器	di ya dian qi	200
+低压配电	di ya pei dian	200
+电场屏蔽	dian chang ping bi	200
+电池端子	dian chi duan zi	200
+电池容量	dian chi rong liang	200
+电池组	dian chi zu	200
+电池座	dian chi zuo	200
+电磁泵	dian ci beng	200
+电磁感应	dian ci gan ying	200
+电磁兼容	dian ci jian rong	200
+电磁兼容性	dian ci jian rong xing	200
+电磁力	dian ci li	200
+电磁脉冲	dian ci mai chong	200
+电磁屏蔽	dian ci ping bi	200
+电磁锁	dian ci suo	200
+电磁线	dian ci xian	200
+电磁振荡	dian ci zhen dang	200
+电动泵	dian dong beng	200
+电动阀	dian dong fa	200
+电动发电机	dian dong fa dian ji	200
+电动工具	dian dong gong ju	200
+电动势	dian dong shi	200
+电镀厂	dian du chang	200
+电镀法	dian du fa	200
+电镀锌钢板	dian du xin gang ban	200
+电感耦合	dian gan ou he	200
+电感式传感器	dian gan shi chuan gan qi	200
+电感线圈	dian gan xian quan	200
+电感元件	dian gan yuan jian	200
+电工材料	dian gong cai liao	200
+电工机械	dian gong ji xie	200
+电工器材	dian gong qi cai	200
+电工仪表	dian gong yi biao	200
+电焊工	dian han gong	200
+点焊机	dian han ji	200
+电焊机	dian han ji	200
+电焊条	dian han tiao	200
+电荷泵	dian he beng	200
+电弧故障	dian hu gu zhang	200
+电弧故障断路器	dian hu gu zhang duan lu qi	200
+电弧焊	dian hu han	200
+电弧焊接	dian hu han jie	200
+电化学加工	dian hua xue jia gong	200
+电火花加工	dian huo hua jia gong	200
+电极电势	dian ji dian shi	200
+电机控制器	dian ji kong zhi qi	200
+电机配件	dian ji pei jian	200
+电加工	dian jia gong	200
+电解抛光	dian jie pao guang	200
+电绝缘	dian jue yuan	200
+电缆附件	dian lan fu jian	200
+电缆沟	dian lan gou	200
+电缆头	dian lan tou	200
+电缆线	dian lan xian	200
+电力电缆	dian li dian lan	200
+电力电子学	dian li dian zi xue	200
+电力工程	dian li gong cheng	200
+电力设施	dian li she shi	200
+电力线	dian li xian	200
+电流表	dian liu biao	200
+电流分配定则	dian liu fen pei ding ze	200
+电流感测技术	dian liu gan ce ji shu	200
+电流环	dian liu huan	200
+电流计	dian liu ji	200
+电流密度	dian liu mi du	200
+电流限制	dian liu xian zhi	200
+电流效率	dian liu xiao lv	200
+电路仿真	dian lu fang zhen	200
+电路符号	dian lu fu hao	200
+电路提取	dian lu ti qu	200
+电路拓扑	dian lu tuo pu	200
+电路完整性	dian lu wan zheng xing	200
+电抛光	dian pao guang	200
+电气传动	dian qi chuan dong	200
+电气隔离	dian qi ge li	200
+电气焊	dian qi han	200
+电气控制	dian qi kong zhi	200
+电器维修	dian qi wei xiu	200
+电容分压器	dian rong fen ya qi	200
+电容耦合	dian rong ou he	200
+电枢	dian shu	200
+电刷	dian shua	200
+电位器	dian wei qi	200
+电线电缆	dian xian dian lan	200
+电压表	dian ya biao	200
+电压计	dian ya ji	200
+电压阶跃	dian ya jie yue	200
+电压控制器	dian ya kong zhi qi	200
+电压转换器	dian ya zhuan huan qi	200
+电源层	dian yuan ceng	200
+电源插头	dian yuan cha tou	200
+电源电压抑制比	dian yuan dian ya yi zhi bi	200
+电源开关	dian yuan kai guan	200
+电源滤波器	dian yuan lv bo qi	200
+电源模块	dian yuan mo kuai	200
+电源切换开关	dian yuan qie huan kai guan	200
+电源适配器	dian yuan shi pei qi	200
+电渣焊	dian zha han	200
+电子标签	dian zi biao qian	200
+电子材料	dian zi cai liao	200
+电子电路设计	dian zi dian lu she ji	200
+电子封装	dian zi feng zhuang	200
+电子负载	dian zi fu zai	200
+电子干扰	dian zi gan rao	200
+电子管	dian zi guan	200
+电子管放大器	dian zi guan fang da qi	200
+电子衡器	dian zi heng qi	200
+电子开关	dian zi kai guan	200
+电子控制器	dian zi kong zhi qi	200
+电子连接器	dian zi lian jie qi	200
+电子零件	dian zi ling jian	200
+电子滤波器	dian zi lv bo qi	200
+电子密度	dian zi mi du	200
+电子器件	dian zi qi jian	200
+电子设计自动化	dian zi she ji zi dong hua	200
+电子束	dian zi shu	200
+电子束曝光	dian zi shu bao guang	200
+电子探针	dian zi tan zhen	200
+电子陶瓷	dian zi tao ci	200
+电子天平	dian zi tian ping	200
+电子仪器	dian zi yi qi	200
+电子振荡器	dian zi zhen dang qi	200
+电子专业制造服务	dian zi zhuan ye zhi zao fu wu	200
+电阻焊	dian zu han	200
+电阻加热	dian zu jia re	200
+电阻晶体管逻辑	dian zu jing ti guan luo ji	200
+电阻炉	dian zu lu	200
+电阻色码	dian zu se ma	200
+电阻式传感器	dian zu shi chuan gan qi	200
+电阻丝	dian zu si	200
+电阻损耗	dian zu sun hao	200
+电阻温度计	dian zu wen du ji	200
+电阻箱	dian zu xiang	200
+电阻值	dian zu zhi	200
+吊钩	diao gou	200
+吊环螺栓	diao huan luo shuan	200
+雕刻刀	diao ke dao	200
+迭代学习控制	die dai xue xi kong zhi	200
+碟型垫片	die xing dian pian	200
+蝶型螺母	die xing luo mu	200
+丁苯橡胶	ding ben xiang jiao	200
+丁腈橡胶	ding jing xiang jiao	200
+定期检验	ding qi jian yan	200
+定时开关	ding shi kai guan	200
+定性风险分析	ding xing feng xian fen xi	200
+定值电阻	ding zhi dian zu	200
+定子	ding zi	200
+锭子油	ding zi you	200
+动力电池	dong li dian chi	200
+动力计	dong li ji	200
+动力机械	dong li ji xie	200
+动力式泵	dong li shi beng	200
+动态模拟	dong tai mo ni	200
+动态随机存储器	dong tai sui ji cun chu qi	200
+镀层	du ceng	200
+断电器	duan dian qi	200
+端电压	duan dian ya	200
+短沟道效应	duan gou dao xiao ying	200
+锻焊	duan han	200
+短路电感	duan lu dian gan	200
+断线钳	duan xian qian	200
+锻压机	duan ya ji	200
+锻压设备	duan ya she bei	200
+锻造厂	duan zao chang	200
+锻造车间	duan zao che jian	200
+锻造法	duan zao fa	200
+锻造工	duan zao gong	200
+端子板	duan zi ban	200
+对焊机	dui han ji	200
+对流传热	dui liu chuan re	200
+对数平均温差	dui shu ping jun wen cha	200
+钝化工艺	dun hua gong yi	200
+镦头器	dun tou qi	200
+多级泵	duo ji beng	200
+多腔磁控管	duo qiang ci kong guan	200
+多轴加工	duo zhou jia gong	200
+额定电流	e ding dian liu	200
+扼流圈	e liu quan	200
+扼流线圈	e liu xian quan	200
+二极管晶体管逻辑	er ji guan jing ti guan luo ji	200
+二极管模型	er ji guan mo xing	200
+二硫化钼	er liu hua mu	200
+二手机床	er shou ji chuang	200
+二氧化锆	er yang hua gao	200
+二氧化硅	er yang hua gui	200
+发光二极管	fa guang er ji guan	200
+发蓝	fa lan	200
+法兰螺母	fa lan luo mu	200
+法兰盘	fa lan pan	200
+法兰式	fa lan shi	200
+发射率	fa she lv	200
+返回比	fan hui bi	200
+反熔丝	fan rong si	200
+反相器	fan xiang qi	200
+反应离子刻蚀	fan ying li zi ke shi	200
+防爆电器	fang bao dian qi	200
+防呆	fang dai	200
+方法工程	fang fa gong cheng	200
+防腐蚀	fang fu shi	200
+防护服	fang hu fu	200
+防护栏	fang hu lan	200
+防护门	fang hu men	200
+防护区	fang hu qu	200
+防护网	fang hu wang	200
+防护系统	fang hu xi tong	200
+防护用品	fang hu yong pin	200
+防护罩	fang hu zhao	200
+防护装置	fang hu zhuang zhi	200
+防火阀	fang huo fa	200
+防静电袋	fang jing dian dai	200
+防静电装置	fang jing dian zhuang zhi	200
+防磨接头	fang mo jie tou	200
+放气阀	fang qi fa	200
+防松螺帽	fang song luo mao	200
+方形螺母	fang xing luo mu	200
+纺织机械	fang zhi ji xie	200
+非金属材料	fei jin shu cai liao	200
+非晶态金属	fei jing tai jin shu	200
+菲尼克斯电气	fei ni ke si dian qi	200
+非牛顿流体	fei niu dun liu ti	200
+废热	fei re	200
+飞线	fei xian	200
+分布参数系统	fen bu can shu xi tong	200
+分布元件模型	fen bu yuan jian mo xing	200
+分电器	fen dian qi	200
+分度圆	fen du yuan	200
+分级淬火	fen ji cui huo	200
+分离原理	fen li yuan li	200
+粉末冶金	fen mo ye jin	200
+分配阀	fen pei fa	200
+分批工艺	fen pi gong yi	200
+分频器	fen pin qi	200
+酚醛树脂	fen quan shu zhi	200
+分子束外延	fen zi shu wai yan	200
+丰田模式	feng tian mo shi	200
+丰田生产方式	feng tian sheng chan fang shi	200
+丰田生产系统	feng tian sheng chan xi tong	200
+缝隙腐蚀	feng xi fu shi	200
+峰值检测	feng zhi jian ce	200
+峰值因数	feng zhi yin shu	200
+浮动开关	fu dong kai guan	200
+浮动螺母	fu dong luo mu	200
+呋喃树脂	fu nan shu zhi	200
+浮球阀	fu qiu fa	200
+辐射电阻	fu she dian zu	200
+腐蚀疲劳	fu shi pi lao	200
+腐蚀深度	fu shi shen du	200
+福特制	fu te zhi	200
+复位开关	fu wei kai guan	200
+氟橡胶	fu xiang jiao	200
+辅助生产	fu zhu sheng chan	200
+钙热还原	gai re huan yuan	200
+坩埚钢	gan guo gang	200
+感应电流	gan ying dian liu	200
+感应炉	gan ying lu	200
+钢板网	gang ban wang	200
+钢化塑料	gang hua su liao	200
+钢砂	gang sha	200
+钢丝锯	gang si ju	200
+钢丝钳	gang si qian	200
+钢丝圈	gang si quan	200
+钢丝绒	gang si rong	200
+钢丝刷	gang si shua	200
+钢丝网	gang si wang	200
+刚体	gang ti	200
+刚体动力学	gang ti dong li xue	200
+钢珠	gang zhu	200
+高电阻线	gao dian zu xian	200
+高度规	gao du gui	200
+高加速寿命测试	gao jia su shou ming ce shi	200
+高介电常数材料	gao jie dian chang shu cai liao	200
+高气压	gao qi ya	200
+高速切削	gao su qie xue	200
+高速钻孔	gao su zuan kong	200
+高碳钢	gao tan gang	200
+高温合金	gao wen he jin	200
+高温作业	gao wen zuo ye	200
+高压泵	gao ya beng	200
+高压电器	gao ya dian qi	200
+高压电源	gao ya dian yuan	200
+高压阀门	gao ya fa men	200
+高压焊接	gao ya han jie	200
+高压水泵	gao ya shui beng	200
+个别生产	ge bie sheng chan	200
+铬合金	ge he jin	200
+格雷码	ge lei ma	200
+隔离工艺	ge li gong yi	200
+隔离开关	ge li kai guan	200
+隔膜泵	ge mo beng	200
+隔膜阀	ge mo fa	200
+铬镍合金	ge nie he jin	200
+隔热垫	ge re dian	200
+个体防护装备	ge ti fang hu zhuang bei	200
+根本原因分析	gen ben yuan yin fen xi	200
+根轨迹图	gen gui ji tu	200
+耿氏二极管	geng shi er ji guan	200
+公差与配合	gong cha yu pei he	200
+工厂化	gong chang hua	200
+工厂区	gong chang qu	200
+工厂用电	gong chang yong dian	200
+工程塑料	gong cheng su liao	200
+供电系统	gong dian xi tong	200
+工具钢	gong ju gang	200
+工具机	gong ju ji	177
+共聚聚酯	gong ju ju zhi	200
+工控机	gong kong ji	200
+工控微机	gong kong wei ji	200
+工量具	gong liang ju	200
+共漏极	gong lou ji	200
+功率半导体器件	gong lv ban dao ti qi jian	200
+供配电	gong pei dian	200
+攻丝机	gong si ji	200
+工业安全系统	gong ye an quan xi tong	200
+工业泵	gong ye beng	200
+工业电器	gong ye dian qi	200
+工业电子系统	gong ye dian zi xi tong	200
+工业工程学	gong ye gong cheng xue	200
+工业化生产	gong ye hua sheng chan	200
+工业数据处理	gong ye shu ju chu li	200
+工业物联网	gong ye wu lian wang	200
+工业以太网	gong ye yi tai wang	200
+工艺程序	gong yi cheng xu	200
+工艺窗口指数	gong yi chuang kou zhi shu	200
+工艺模拟	gong yi mo ni	200
+工艺设备	gong yi she bei	200
+工艺设计	gong yi she ji	200
+工艺师	gong yi shi	200
+工艺水平	gong yi shui ping	200
+工艺员	gong yi yuan	200
+供油泵	gong you beng	200
+共源极	gong yuan ji	200
+工字梁	gong zi liang	200
+工作电压	gong zuo dian ya	200
+工作分解结构	gong zuo fen jie jie gou	200
+沟道长度调制	gou dao chang du tiao zhi	200
+固溶强化	gu rong qiang hua	200
+固态电子器件	gu tai dian zi qi jian	200
+固态继电器	gu tai ji dian qi	200
+固态照明	gu tai zhao ming	200
+故障检测和隔离	gu zhang jian ce he ge li	200
+关闭电源	guan bi dian yuan	200
+管道泵	guan dao beng	200
+管道腐蚀	guan dao fu shi	200
+管道工	guan dao gong	200
+管道工程	guan dao gong cheng	200
+管道配件	guan dao pei jian	200
+灌封	guan feng	200
+关键工艺参数	guan jian gong yi can shu	200
+管接头	guan jie tou	200
+关节轴承	guan jie zhou cheng	200
+管式泵	guan shi beng	200
+管制图	guan zhi tu	200
+光电倍增管	guang dian bei zeng guan	200
+光电二极管	guang dian er ji guan	200
+光电开关	guang dian kai guan	200
+光放大器	guang fang da qi	200
+光刻胶	guang ke jiao	200
+光敏电阻	guang min dian zu	200
+光谱测量	guang pu ce liang	200
+光学邻近校正	guang xue lin jin jiao zheng	200
+硅钢片	gui gang pian	200
+硅树脂	gui shu zhi	200
+硅铁合金	gui tie he jin	200
+硅通孔	gui tong kong	200
+硅橡胶	gui xiang jiao	200
+硅整流器	gui zheng liu qi	200
+滚动时域估计	gun dong shi yu gu ji	200
+滚动轴承	gun dong zhou cheng	200
+滚针轴承	gun zhen zhou cheng	200
+滚珠丝杠	gun zhu si gang	200
+滚柱轴承	gun zhu zhou cheng	200
+滚珠轴承	gun zhu zhou cheng	200
+滚子	gun zi	200
+滚子链	gun zi lian	200
+过饱和	guo bao he	200
+过程工程	guo cheng gong cheng	200
+过程能力	guo cheng neng li	200
+过电压	guo dian ya	200
+国际材料数据系统	guo ji cai liao shu ju xi tong	200
+过载继电器	guo zai ji dian qi	200
+哈斯自动化	ha si zi dong hua	200
+焊工	han gong	200
+焊接车间	han jie che jian	200
+焊接电源	han jie dian yuan	200
+焊接工	han jie gong	200
+焊接工艺规程	han jie gong yi gui cheng	200
+焊接机	han jie ji	200
+焊接件	han jie jian	200
+焊接设备	han jie she bei	200
+焊接式	han jie shi	200
+焊台	han tai	200
+焊铁	han tie	200
+焊锡膏	han xi gao	200
+合成润滑油	he cheng run hua you	200
+合成树脂	he cheng shu zhi	200
+合成纤维	he cheng xian wei	200
+合成橡胶	he cheng xiang jiao	200
+合股线	he gu xian	200
+合金材料	he jin cai liao	200
+合金刀具	he jin dao ju	200
+合金粉	he jin fen	200
+合金钢	he jin gang	200
+合金管	he jin guan	200
+合金丝	he jin si	200
+合约制造商	he yue zhi zao shang	200
+黑色金属	hei se jin shu	200
+恒定电流	heng ding dian liu	200
+红外光谱仪	hong wai guang pu yi	200
+后备电池	hou bei dian chi	200
+厚薄规	hou bo gui	200
+后道工序	hou dao gong xu	200
+后端工艺	hou duan gong yi	200
+胡克定律	hu ke ding lv	200
+互锁	hu suo	200
+呼吸阀	hu xi fa	200
+滑动模式观测器	hua dong mo shi guan ce qi	200
+滑动模式控制	hua dong mo shi kong zhi	200
+滑动轴承	hua dong zhou cheng	200
+化工泵	hua gong beng	200
+化工机械	hua gong ji xie	200
+化工流程泵	hua gong liu cheng beng	200
+花盘	hua pan	200
+滑片泵	hua pian beng	200
+划片槽	hua pian cao	200
+花纹板	hua wen ban	200
+化学工厂	hua xue gong chang	200
+化学机械平坦化	hua xue ji xie ping tan hua	200
+化学镍金	hua xue nie jin	200
+化学抛光	hua xue pao guang	200
+化学气相沉积	hua xue qi xiang chen ji	200
+缓冲接头	huan chong jie tou	200
+缓冲启动器	huan chong qi dong qi	200
+环境光感测器	huan jing guang gan ce qi	200
+环路增益	huan lu zeng yi	200
+换向阀	huan xiang fa	200
+环形振荡器	huan xing zhen dang qi	200
+环氧塑封料	huan yang su feng liao	200
+环氧值	huan yang zhi	200
+黄铜	huang tong	200
+回风管道	hui feng guan dao	200
+辉光管	hui guang guan	200
+回火	hui huo	200
+回流阀	hui liu fa	200
+回流焊接	hui liu han jie	200
+回流焊炉	hui liu han lu	200
+回路性能	hui lu xing neng	200
+惠斯登电桥	hui si deng dian qiao	200
+回油泵	hui you beng	200
+灰铸铁	hui zhu tie	200
+回转窑	hui zhuan yao	200
+混流泵	hun liu beng	200
+混凝土泵	hun ning tu beng	200
+混频器	hun pin qi	200
+霍尔效应传感器	huo er xiao ying chuan gan qi	200
+火花隙	huo hua xi	200
+霍尼韦尔	huo ni wei er	200
+活塞杆	huo sai gan	200
+活塞环	huo sai huan	200
+集成电路版图	ji cheng dian lu ban tu	200
+集成电路封装	ji cheng dian lu feng zhuang	200
+集成电路设计	ji cheng dian lu she ji	200
+集成无源器件	ji cheng wu yuan qi jian	200
+基础油	ji chu you	200
+机床厂	ji chuang chang	200
+机床附件	ji chuang fu jian	200
+机床加工	ji chuang jia gong	200
+机床配件	ji chuang pei jian	200
+机床设备	ji chuang she bei	200
+继电保护	ji dian bao hu	200
+机电工程	ji dian gong cheng	200
+集电环	ji dian huan	200
+集电极	ji dian ji	200
+基尔霍夫电路定律	ji er huo fu dian lu ding lv	200
+积分饱和	ji fen bao he	200
+激光雕刻机	ji guang diao ke ji	200
+激光二极管	ji guang er ji guan	200
+激光焊	ji guang han	200
+激光退火	ji guang tui huo	200
+几何尺寸和公差	ji he chi cun he gong cha	200
+机加工	ji jia gong	200
+极间电容	ji jian dian rong	200
+计量泵	ji liang beng	200
+计量秤	ji liang cheng	200
+计量法	ji liang fa	200
+计量器	ji liang qi	200
+棘轮	ji lun	121
+机螺钉	ji luo ding	200
+机器人焊接	ji qi ren han jie	200
+机器误差	ji qi wu cha	200
+机器学习控制	ji qi xue xi kong zhi	200
+寄生元件	ji sheng yuan jian	200
+给水泵	ji shui beng	200
+计算机辅助制造	ji suan ji fu zhu zhi zao	200
+计算流体力学	ji suan liu ti li xue	200
+计算误差	ji suan wu cha	200
+极限开关	ji xian kai guan	200
+机箱电源	ji xiang dian yuan	200
+机械安全	ji xie an quan	200
+机械泵	ji xie beng	200
+机械传动	ji xie chuan dong	200
+机械刀片	ji xie dao pian	200
+机械动力	ji xie dong li	200
+机械工人	ji xie gong ren	200
+机械加工	ji xie jia gong	200
+机械零件	ji xie ling jian	200
+机械滤波器	ji xie lv bo qi	200
+机械抛光	ji xie pao guang	200
+机械配件	ji xie pei jian	200
+机械手	ji xie shou	200
+机械手臂	ji xie shou bi	200
+机械锁	ji xie suo	200
+机械效率	ji xie xiao lv	200
+机械性能	ji xie xing neng	200
+机械油	ji xie you	200
+机械优势	ji xie you shi	200
+机械运动	ji xie yun dong	200
+机械振动	ji xie zhen dong	200
+机械制图	ji xie zhi tu	200
+机械装备	ji xie zhuang bei	200
+机修钳工	ji xiu qian gong	200
+挤压机	ji ya ji	200
+挤压加工	ji ya jia gong	200
+记忆合金	ji yi he jin	200
+机油泵	ji you beng	200
+机油滤芯	ji you lv xin	200
+基于模型的设计	ji yu mo xing de she ji	200
+极紫外光刻	ji zi wai guang ke	200
+夹断电压	jia duan dian ya	200
+加工成本	jia gong cheng ben	200
+加工订货	jia gong ding huo	200
+加工过程	jia gong guo cheng	200
+加工件	jia gong jian	200
+加工量	jia gong liang	200
+加工能力	jia gong neng li	200
+加工区	jia gong qu	200
+加工水平	jia gong shui ping	200
+加工性	jia gong xing	200
+加工硬化	jia gong ying hua	200
+加工余量	jia gong yu liang	200
+加工周期	jia gong zhou qi	200
+夹钳	jia qian	200
+加速老化测试	jia su lao hua ce shi	200
+夹头	jia tou	200
+夹芯结构材料	jia xin jie gou cai liao	200
+加油泵	jia you beng	200
+价值工程	jia zhi gong cheng	200
+建材机械	jian cai ji xie	200
+检测点	jian ce dian	200
+检测费	jian ce fei	200
+检测时间	jian ce shi jian	200
+检测线	jian ce xian	200
+检测仪	jian ce yi	200
+检测仪表	jian ce yi biao	200
+检测站	jian ce zhan	200
+检测值	jian ce zhi	200
+检电器	jian dian qi	200
+监督控制理论	jian du kong zhi li lun	200
+间接测量	jian jie ce liang	200
+剪切强度	jian qie qiang du	200
+剪切应力	jian qie ying li	200
+溅射	jian she	200
+溅射沉积	jian she chen ji	200
+减速比	jian su bi	200
+减速马达	jian su ma da	200
+减速器	jian su qi	200
+减速时间	jian su shi jian	200
+减速运动	jian su yun dong	200
+鉴相器	jian xiang qi	200
+碱性电池	jian xing dian chi	200
+减压阀	jian ya fa	200
+检验单	jian yan dan	200
+检验费	jian yan fei	200
+检验机	jian yan ji	200
+检验能力	jian yan neng li	200
+检验室	jian yan shi	200
+检验台	jian yan tai	200
+检验员	jian yan yuan	200
+检验站	jian yan zhan	200
+检验证书	jian yan zheng shu	200
+建筑机械	jian zhu ji xie	200
+降低库存	jiang di ku cun	200
+搅拌摩擦焊	jiao ban mo ca han	200
+搅拌器	jiao ban qi	200
+胶合板	jiao he ban	200
+角加速度	jiao jia su du	200
+铰接式	jiao jie shi	200
+铰孔	jiao kong	200
+铰链运动	jiao lian yun dong	200
+铰链轴	jiao lian zhou	200
+交流电动机	jiao liu dian dong ji	200
+交流电抗器	jiao liu dian kang qi	200
+交流电力	jiao liu dian li	200
+交流电源	jiao liu dian yuan	200
+交流腐蚀	jiao liu fu shi	200
+交流整流子电动机	jiao liu zheng liu zi dian dong ji	200
+角磨机	jiao mo ji	200
+绞盘	jiao pan	200
+角速度	jiao su du	200
+校准器	jiao zhun qi	200
+接触器	jie chu qi	200
+接触热导	jie chu re dao	200
+接单生产	jie dan sheng chan	200
+接地垫	jie di dian	200
+接地反弹	jie di fan tan	200
+接地线	jie di xian	200
+接地装置	jie di zhuang zhi	200
+节点分析	jie dian fen xi	200
+结电容	jie dian rong	200
+介电陶瓷	jie dian tao ci	200
+介电吸收	jie dian xi shou	200
+结电阻	jie dian zu	200
+结构分析	jie gou fen xi	200
+结构钢	jie gou gang	200
+结构工程	jie gou gong cheng	200
+结构力学	jie gou li xue	200
+结构设计准则	jie gou she ji zhun ze	200
+结构完整性与失效	jie gou wan zheng xing yu shi xiao	200
+接近传感器	jie jin chuan gan qi	200
+洁净室	jie jing shi	200
+节流阀	jie liu fa	200
+截面二次轴矩	jie mian er ci zhou ju	200
+截面模量	jie mian mo liang	200
+界面热阻	jie mian re zu	200
+接头盒	jie tou he	200
+接线板	jie xian ban	200
+接线盒	jie xian he	200
+界限量规	jie xian liang gui	200
+接线片	jie xian pian	200
+接线图	jie xian tu	200
+接线箱	jie xian xiang	200
+接线柱	jie xian zhu	200
+阶跃电压	jie yue dian ya	200
+截止阀	jie zhi fa	200
+紧固带	jin gu dai	200
+紧固件	jin gu jian	200
+紧急停止开关	jin ji ting zhi kai guan	200
+进料加工	jin liao jia gong	200
+浸没光刻	jin mo guang ke	200
+浸渗	jin shen	200
+金属包头	jin shu bao tou	200
+金属箔	jin shu bo	200
+金属薄板	jin shu bo ban	200
+金属材料成形	jin shu cai liao cheng xing	200
+金属粉末	jin shu fen mo	200
+金属封装	jin shu feng zhuang	200
+金属腐蚀	jin shu fu shi	200
+金属工艺	jin shu gong yi	200
+金属基复合材料	jin shu ji fu he cai liao	200
+金属加工	jin shu jia gong	200
+金属疲劳	jin shu pi lao	200
+金属射出成型	jin shu she chu cheng xing	200
+金属探伤	jin shu tan shang	200
+金属陶瓷	jin shu tao ci	200
+金属制造	jin shu zhi zao	200
+金相学	jin xiang xue	200
+静电保护	jing dian bao hu	200
+静电场	jing dian chang	200
+静电放电	jing dian fang dian	200
+静电放电材料	jing dian fang dian cai liao	200
+静电感应	jing dian gan ying	200
+静电荷	jing dian he	200
+静电积累	jing dian ji lei	200
+静电敏感设备	jing dian min gan she bei	200
+静电屏蔽	jing dian ping bi	200
+静电势	jing dian shi	200
+精加工	jing jia gong	200
+晶间腐蚀	jing jian fu shi	200
+晶粒	jing li	200
+静力学	jing li xue	200
+腈纶	jing lun	103
+精密机械	jing mi ji xie	200
+精确测量	jing que ce liang	200
+静态随机存储器	jing tai sui ji cun chu qi	200
+晶须	jing xu	200
+精益六西格玛	jing yi liu xi ge ma	200
+精益生产	jing yi sheng chan	200
+晶圆	jing yuan	200
+晶圆厂	jing yuan chang	200
+晶圆级封装	jing yuan ji feng zhuang	200
+晶圆键合	jing yuan jian he	200
+静止无功补偿器	jing zhi wu gong bu chang qi	200
+聚苯二甲酰胺	ju ben er jia xian an	200
+聚苯硫醚	ju ben liu mi	200
+聚苯乙烯	ju ben yi xi	200
+聚丙烯腈	ju bing xi jing	200
+聚丙烯酸	ju bing xi suan	200
+锯床	ju chuang	200
+聚丁烯	ju ding xi	200
+聚砜	ju feng	200
+聚己内酯	ju ji nei zhi	200
+聚甲基丙烯酸甲酯	ju jia ji bing xi suan jia zhi	200
+聚甲醛	ju jia quan	200
+聚氯乙烯	ju lv yi xi	200
+聚醚醚酮	ju mi mi tong	200
+聚醚酮酮	ju mi tong tong	200
+聚偏二氟乙烯	ju pian er fu yi xi	200
+聚乳酸	ju ru suan	200
+聚四氟乙烯	ju si fu yi xi	200
+聚碳酸酯	ju tan suan zhi	200
+聚烯烃	ju xi ting	200
+聚酰胺	ju xian an	200
+聚酰亚胺	ju xian ya an	200
+聚乙烯醇	ju yi xi chun	200
+聚乙烯醇缩丁醛	ju yi xi chun suo ding quan	200
+矩阵图法	ju zhen tu fa	200
+聚酯树脂	ju zhi shu zhi	200
+卷板机	juan ban ji	200
+卷尺	juan chi	200
+卷扬机	juan yang ji	200
+绝对零度	jue dui ling du	200
+绝对误差	jue dui wu cha	200
+绝对压力	jue dui ya li	200
+绝热过程	jue re guo cheng	200
+绝缘材料	jue yuan cai liao	200
+绝缘层	jue yuan ceng	200
+绝缘导体	jue yuan dao ti	200
+绝缘电阻测试	jue yuan dian zu ce shi	200
+绝缘胶布	jue yuan jiao bu	200
+绝缘胶带	jue yuan jiao dai	200
+绝缘漆	jue yuan qi	200
+绝缘体	jue yuan ti	200
+绝缘体上硅	jue yuan ti shang gui	200
+绝缘线	jue yuan xian	200
+绝缘性	jue yuan xing	200
+绝缘油	jue yuan you	200
+绝缘纸	jue yuan zhi	200
+绝缘子	jue yuan zi	200
+均方根	jun fang gen	200
+均衡生产	jun heng sheng chan	200
+卡尺	ka chi	200
+卡扣	ka kou	200
+卡诺图	ka nuo tu	200
+卡盘	ka pan	200
+开尔文电桥	kai er wen dian qiao	200
+开放平台通信	kai fang ping tai tong xin	200
+开关插座	kai guan cha zuo	200
+开关磁阻电动机	kai guan ci zu dian dong ji	200
+开关电容	kai guan dian rong	200
+开关柜	kai guan gui	200
+开关模式电源	kai guan mo shi dian yuan	200
+开关设备	kai guan she bei	200
+开关损耗	kai guan sun hao	200
+开关网络	kai guan wang luo	200
+开口销	kai kou xiao	200
+看板管理	kan ban guan li	200
+抗辐射强化	kang fu she qiang hua	200
+抗腐蚀	kang fu shi	200
+抗静电	kang jing dian	200
+糠醛树脂	kang quan shu zhi	200
+康铜	kang tong	200
+抗压强度	kang ya qiang du	200
+可编程逻辑控制器	ke bian cheng luo ji kong zhi qi	200
+可编程片上系统	ke bian cheng pian shang xi tong	200
+可变电容	ke bian dian rong	200
+可变电容器	ke bian dian rong qi	200
+可变电阻	ke bian dian zu	200
+可锻铸铁	ke duan zhu tie	200
+可互换零件	ke hu huan ling jian	200
+可靠性工程	ke kao xing gong cheng	200
+刻蚀	ke shi	200
+可调速驱动器	ke tiao su qu dong qi	200
+苛性脆化	ke xing cui hua	200
+空气压缩	kong qi ya suo	200
+孔蚀	kong shi	200
+空心杯马达	kong xin bei ma da	200
+控制重构	kong zhi chong gou	200
+控制单元	kong zhi dan yuan	200
+控制等级	kong zhi deng ji	200
+控制阀	kong zhi fa	200
+库存量	ku cun liang	200
+库存模型	ku cun mo xing	200
+库存商品	ku cun shang pin	200
+库存损失	ku cun sun shi	200
+块规	kuai gui	200
+快速换模法	kuai su huan mu fa	200
+扩建工厂	kuo jian gong chang	200
+扩散电容	kuo san dian rong	200
+扩散工艺	kuo san gong yi	200
+扩散接合	kuo san jie he	200
+拉拔	la ba	200
+拉铆螺母	la mao luo mu	200
+拉深	la shen	200
+拉伸强度	la shen qiang du	200
+拉线开关	la xian kai guan	200
+拉削	la xue	200
+来料加工	lai liao jia gong	200
+莱氏体	lai shi ti	200
+来样加工	lai yang jia gong	200
+浪涌保护器	lang yong bao hu qi	200
+劳动保护	lao dong bao hu	200
+劳动防护	lao dong fang hu	200
+劳动生产率	lao dong sheng chan lv	200
+类金刚石碳	lei jin gang shi tan	200
+雷诺方程	lei nuo fang cheng	200
+雷诺数	lei nuo shu	200
+冷冲压	leng chong ya	200
+冷镦	leng dun	200
+冷焊	leng han	200
+冷挤压	leng ji ya	200
+冷加工	leng jia gong	200
+冷凝器	leng ning qi	200
+锂二氧化锰电池	li er yang hua meng dian chi	200
+力矩电机	li ju dian ji	200
+力矩马达	li ju ma da	200
+锂离子电池	li li zi dian chi	200
+理论误差	li lun wu cha	200
+离散事件动态系统	li san shi jian dong tai xi tong	200
+利特尔法则	li te er fa ze	200
+立体挤压	li ti ji ya	200
+理想气体	li xiang qi ti	200
+理想气体常数	li xiang qi ti chang shu	200
+理想气体定律	li xiang qi ti ding lv	200
+离心泵	li xin beng	200
+离心开关	li xin kai guan	200
+离心式调速器	li xin shi tiao su qi	200
+离心铸造	li xin zhu zao	200
+锂亚硫酰氯电池	li ya liu xian lv dian chi	200
+李亚普诺夫方程	li ya pu nuo fu fang cheng	200
+离子交换树脂	li zi jiao huan shu zhi	200
+离子铣	li zi xi	200
+离子注入	li zi zhu ru	200
+链传动	lian chuan dong	200
+连杆机构	lian gan ji gou	200
+炼钢厂	lian gang chang	200
+炼钢炉	lian gang lu	200
+链轮	lian lun	200
+连线作业	lian xian zuo ye	200
+连续方程	lian xu fang cheng	200
+连续工艺	lian xu gong yi	200
+连续介质力学	lian xu jie zhi li xue	200
+联轴节	lian zhou jie	200
+联轴器	lian zhou qi	200
+连铸	lian zhu	200
+量纲分析	liang gang fen xi	200
+良率	liang lv	200
+量热法	liang re fa	200
+磷青铜	lin qing tong	200
+林业机械	lin ye ji xie	200
+零备件	ling bei jian	200
+零阶保持	ling jie bao chi	200
+零库存	ling ku cun	200
+零速度开关	ling su du kai guan	200
+流变学	liu bian xue	200
+流变仪	liu bian yi	200
+流动式起重机	liu dong shi qi zhong ji	200
+硫化橡胶	liu hua xiang jiao	200
+硫磺泵	liu huang beng	200
+六价铬	liu jia ge	200
+流片	liu pian	200
+流水线结构	liu shui xian jie gou	200
+流水作业	liu shui zuo ye	200
+流体动力	liu ti dong li	200
+流体静力学	liu ti jing li xue	200
+六西格玛	liu xi ge ma	200
+龙门刨	long men bao	200
+龙门吊	long men diao	200
+龙门架	long men jia	200
+漏电保护器	lou dian bao hu qi	200
+漏致势垒降低	lou zhi shi lei jiang di	200
+路端电压	lu duan dian ya	200
+卤素灯泡	lu su deng pao	200
+轮机工程	lun ji gong cheng	200
+轮系	lun xi	200
+螺钉旋具	luo ding xuan ju	200
+螺杆泵	luo gan beng	200
+逻辑代数	luo ji dai shu	200
+逻辑电平	luo ji dian ping	200
+逻辑优化	luo ji you hua	200
+螺纹规	luo wen gui	200
+螺纹加工	luo wen jia gong	200
+螺纹角	luo wen jiao	200
+螺线管	luo xian guan	200
+螺旋钢管	luo xuan gang guan	200
+螺旋弹簧	luo xuan tan huang	200
+螺旋压力机	luo xuan ya li ji	200
+履带式起重机	lv dai shi qi zhong ji	200
+铝电解电容器	lv dian jie dian rong qi	200
+氯丁橡胶	lv ding xiang jiao	200
+铝加工	lv jia gong	200
+铝锂合金	lv li he jin	200
+铝镁合金	lv mei he jin	200
+铝镍钴合金	lv nie gu he jin	200
+铝热法	lv re fa	200
+铝热反应	lv re fan ying	200
+马达电容	ma da dian rong	200
+马达堵转测试	ma da du zhuan ce shi	200
+马弗炉	ma fu lu	200
+马口铁	ma kou tie	200
+马氏体	ma shi ti	200
+马氏体不锈钢	ma shi ti bu xiu gang	200
+马氏体时效钢	ma shi ti shi xiao gang	200
+脉冲步进	mai chong bu jin	200
+脉冲电流	mai chong dian liu	200
+脉冲阀	mai chong fa	200
+脉冲形成网络	mai chong xing cheng wang luo	200
+脉动电流	mai dong dian liu	200
+埋弧焊	mai hu han	200
+铆钉机	mao ding ji	200
+冒口	mao kou	200
+每齿进给量	mei chi jin ji liang	200
+镁合金	mei he jin	200
+镁铝合金	mei lv he jin	200
+煤气管道	mei qi guan dao	200
+梅森增益公式	mei sen zeng yi gong shi	200
+镁碳砖	mei tan zhuan	200
+门式起重机	men shi qi zhong ji	200
+锰铜	meng tong	200
+密封材料	mi feng cai liao	200
+密封舱	mi feng cang	200
+密封垫	mi feng dian	200
+密封盖	mi feng gai	200
+密封罐	mi feng guan	200
+密封环	mi feng huan	200
+密封剂	mi feng ji	200
+密封件	mi feng jian	200
+密封门	mi feng men	200
+密封面	mi feng mian	200
+密封器	mi feng qi	200
+密封式	mi feng shi	200
+米勒指数	mi le zhi shu	200
+面包板	mian bao ban	200
+摩擦起电效应	mo ca qi dian xiao ying	200
+摩擦学	mo ca xue	200
+摩擦钻孔	mo ca zuan kong	200
+磨床	mo chuang	200
+磨刀石	mo dao shi	200
+膜电容	mo dian rong	200
+末端阀	mo duan fa	200
+模糊控制	mo hu kong zhi	200
+模块电源	mo kuai dian yuan	200
+磨料	mo liao	200
+模拟乘法器	mo ni cheng fa qi	200
+莫诺泵	mo nuo beng	200
+磨铣工具	mo xi gong ju	200
+模型材料	mo xing cai liao	200
+模型预测控制	mo xing yu ce kong zhi	200
+模具厂	mu ju chang	200
+模具钢	mu ju gang	200
+模具钢材	mu ju gang cai	200
+模具设备	mu ju she bei	200
+母丝杠	mu si gang	200
+母线槽	mu xian cao	200
+钠硫电池	na liu dian chi	200
+纳米压印	na mi ya yin	200
+耐腐蚀性	nai fu shi xing	200
+耐候钢	nai hou gang	200
+耐火材料	nai huo cai liao	200
+耐磨材料	nai mo cai liao	200
+耐磨钢	nai mo gang	200
+耐磨性	nai mo xing	200
+耐热钢	nai re gang	200
+耐热合金	nai re he jin	200
+耐热铸铁	nai re zhu tie	200
+耐蚀性	nai shi xing	200
+挠度	nao du	200
+内部模型	nei bu mo xing	200
+内六角扳手	nei liu jiao ban shou	200
+内螺纹	nei luo wen	200
+逆变电源	ni bian dian yuan	200
+逆变焊机	ni bian han ji	200
+泥浆泵	ni jiang beng	200
+逆向物流	ni xiang wu liu	200
+黏度指数	nian du zhi shu	200
+粘弹性	nian tan xing	200
+脲醛树脂	niao quan shu zhi	200
+镍镉电池	nie ge dian chi	200
+镍铬合金	nie ge he jin	200
+镍合金	nie he jin	200
+镍氢电池	nie qing dian chi	200
+镍铁电池	nie tie dian chi	200
+牛顿流体	niu dun liu ti	200
+钮扣电池	niu kou dian chi	200
+牛头刨床	niu tou bao chuang	200
+钕磁铁	nv ci tie	200
+欧姆电阻	ou mu dian zu	200
+欧姆接触	ou mu jie chu	200
+欧姆龙	ou mu long	200
+偶然误差	ou ran wu cha	200
+帕累托图	pa lei tuo tu	200
+排程	pai cheng	200
+派克变换	pai ke bian huan	200
+排气阀	pai qi fa	200
+排气阀门	pai qi fa men	200
+排水阀	pai shui fa	200
+排水管道	pai shui guan dao	200
+排污泵	pai wu beng	200
+排污阀	pai wu fa	200
+抛光粉	pao guang fen	200
+抛光剂	pao guang ji	200
+抛光机	pao guang ji	200
+抛光蜡	pao guang la	200
+抛光轮	pao guang lun	200
+抛光片	pao guang pian	200
+抛光液	pao guang ye	200
+泡沫塑料	pao mo su liao	200
+配电房	pei dian fang	200
+配电柜	pei dian gui	200
+配电盒	pei dian he	200
+配电盘	pei dian pan	200
+配电器	pei dian qi	200
+配电室	pei dian shi	200
+配电网	pei dian wang	200
+配电箱	pei dian xiang	200
+配电站	pei dian zhan	200
+配电装置	pei dian zhuang zhi	200
+喷砂机	pen sha ji	200
+喷砂嘴	pen sha zui	200
+喷射泵	pen she beng	200
+喷射器	pen she qi	200
+喷锡	pen xi	200
+喷油泵	pen you beng	200
+膨胀阀	peng zhang fa	200
+膨胀螺丝	peng zhang luo si	200
+皮带传动	pi dai chuan dong	200
+皮带轮	pi dai lun	200
+皮垫圈	pi dian quan	200
+批式生产	pi shi sheng chan	200
+片上网络	pian shang wang luo	200
+片上系统	pian shang xi tong	200
+品管七大手法	pin guan qi da shou fa	200
+品管新七大手法	pin guan xin qi da shou fa	200
+频率补偿	pin lv bu chang	200
+品质保证	pin zhi bao zheng	200
+品质控制	pin zhi kong zhi	200
+屏蔽泵	ping bi beng	200
+平衡阀	ping heng fa	200
+平均辐射温度	ping jun fu she wen du	200
+平均故障间隔	ping jun gu zhang jian ge	200
+平均误差	ping jun wu cha	200
+平面工艺	ping mian gong yi	200
+平面磨床	ping mian mo chuang	200
+平面四杆机构	ping mian si gan ji gou	200
+平面应力	ping mian ying li	200
+平行作业	ping xing zuo ye	200
+破坏性试验	po huai xing shi yan	200
+漆包线	qi bao xian	200
+气泵	qi beng	200
+气垫导轨	qi dian dao gui	200
+气动阀	qi dong fa	200
+气动工具	qi dong gong ju	200
+气动马达	qi dong ma da	200
+气动试压泵	qi dong shi ya beng	200
+气动元件	qi dong yuan jian	200
+气缸盖	qi gang gai	200
+气缸套	qi gang tao	200
+气焊和气割	qi han he qi ge	200
+气门嘴	qi men zui	200
+气敏传感器	qi min chuan gan qi	200
+气弹簧	qi tan huang	200
+起停式控制	qi ting shi kong zhi	200
+气相二氧化硅	qi xiang er yang hua gui	200
+气相色谱仪	qi xiang se pu yi	200
+气压表	qi ya biao	200
+奇异控制	qi yi kong zhi	200
+起重机械	qi zhong ji xie	200
+起重量	qi zhong liang	200
+起重器	qi zhong qi	200
+浅槽隔离	qian cao ge li	200
+前道工序	qian dao gong xu	200
+前端工艺	qian duan gong yi	200
+千分表	qian fen biao	200
+千分尺	qian fen chi	200
+钳工	qian gong	200
+铅管	qian guan	200
+铅合金	qian he jin	200
+千斤顶	qian jin ding	200
+欠驱动	qian qu dong	200
+潜水泵	qian shui beng	200
+欠压锁定	qian ya suo ding	200
+强制对流	qiang zhi dui liu	200
+强制开关	qiang zhi kai guan	200
+桥式起重机	qiao shi qi zhong ji	200
+切比雪夫连杆机构	qie bi xue fu lian gan ji gou	200
+切比雪夫滤波器	qie bi xue fu lv bo qi	200
+切断阀	qie duan fa	200
+切割刀	qie ge dao	200
+切割机	qie ge ji	200
+切割片	qie ge pian	200
+切割器	qie ge qi	200
+切换损失	qie huan sun shi	200
+切屑	qie xie	200
+切削工具	qie xue gong ju	200
+切削加工	qie xue jia gong	200
+切削角	qie xue jiao	200
+切削力	qie xue li	200
+切削性能	qie xue xing neng	200
+切削液	qie xue ye	200
+切削用量	qie xue yong liang	200
+切削油	qie xue you	200
+氢脆	qing cui	200
+氰基丙烯酸酯	qing ji bing xi suan zhi	200
+倾角仪	qing jiao yi	200
+氢气阀门	qing qi fa men	200
+清水泵	qing shui beng	200
+球阀	qiu fa	200
+球接头	qiu jie tou	200
+球墨铸铁	qiu mo zhu tie	200
+球轴承	qiu zhou cheng	200
+曲柄	qu bing	200
+去耦电容	qu ou dian rong	200
+驱氢	qu qing	200
+曲线运动	qu xian yun dong	200
+取样保持	qu yang bao chi	200
+全面质量管理	quan mian zhi liang guan li	200
+缺陷分布图	que xian fen bu tu	200
+缺陷追踪	que xian zhui zong	200
+缺氧胶	que yang jiao	200
+燃气泄漏	ran qi xie lou	200
+燃油泵	ran you beng	200
+热成型	re cheng xing	200
+热处理炉	re chu li lu	200
+热传递	re chuan di	200
+热等静压	re deng jing ya	200
+热电堆	re dian dui	200
+热电偶	re dian ou	200
+热电器件	re dian qi jian	200
+热电阻	re dian zu	200
+热惰性	re duo xing	200
+热辐射	re fu she	200
+热固性聚合物	re gu xing ju he wu	200
+热挤压	re ji ya	200
+热界面材料	re jie mian cai liao	200
+热浸镀锌钢板	re jin du xin gang ban	200
+热力膨胀阀	re li peng zhang fa	200
+热敏电阻	re min dian zu	200
+热平衡	re ping heng	200
+热设计功耗	re she ji gong hao	200
+热塑性塑料	re su xing su liao	200
+热通量	re tong liang	200
+热压键合	re ya jian he	200
+热油泵	re you beng	200
+热胀冷缩	re zhang leng suo	200
+人工搬运	ren gong ban yun	200
+刃量具	ren liang ju	200
+人体放电模型	ren ti fang dian mo xing	200
+人造肌肉	ren zao ji rou	200
+人造纤维	ren zao xian wei	200
+人造橡胶	ren zao xiang jiao	200
+熔断器	rong duan qi	200
+熔化焊	rong hua han	200
+容积式泵	rong ji shi beng	200
+溶胶凝胶	rong jiao ning jiao	200
+熔盐泵	rong yan beng	200
+冗余电源系统	rong yu dian yuan xi tong	200
+柔性印刷电路板	rou xing yin shua dian lu ban	200
+柔性制造系统	rou xing zhi zao xi tong	200
+鞣制	rou zhi	199
+蠕动泵	ru dong beng	200
+软钎焊	ruan qian han	200
+润滑添加剂	run hua tian jia ji	200
+润滑系统	run hua xi tong	200
+润滑性	run hua xing	200
+润滑液	run hua ye	200
+润滑油脂	run hua you zhi	200
+润滑脂	run hua zhi	200
+赛璐珞	sai lu luo	200
+伞齿轮	san chi lun	200
+三防胶	san fang jiao	200
+三角测量	san jiao ce liang	200
+三聚氰胺甲醛树脂	san ju qing an jia quan shu zhi	200
+散料处理	san liao chu li	200
+三态逻辑	san tai luo ji	200
+三通阀	san tong fa	200
+三维打印	san wei da yin	200
+三元锂电池	san yuan li dian chi	200
+散装料	san zhuang liao	200
+扫描链	sao miao lian	200
+色谱仪	se pu yi	200
+刹车斩波器	sha che zhan bo qi	200
+砂轮	sha lun	200
+砂轮机	sha lun ji	200
+砂磨机	sha mo ji	200
+砂纸	sha zhi	200
+钐钴磁铁	shan gu ci tie	200
+上变频	shang bian pin	200
+商品检验	shang pin jian yan	200
+烧结焙烧	shao jie bei shao	200
+烧结机	shao jie ji	200
+烧结炉	shao jie lu	200
+设备效率评价	she bei xiao lv ping jia	200
+设计流程	she ji liu cheng	200
+射频电源	she pin dian yuan	200
+渗氮	shen dan	200
+渗氮钢	shen dan gang	200
+深度加工	shen du jia gong	200
+深反应离子刻蚀	shen fan ying li zi ke shi	200
+深沟球轴承	shen gou qiu zhou cheng	200
+深井泵	shen jing beng	200
+深宽比	shen kuan bi	200
+伸缩缝	shen suo feng	200
+渗碳	shen tan	119
+渗碳氮化	shen tan dan hua	200
+渗碳钢	shen tan gang	200
+渗碳体	shen tan ti	200
+渗透压	shen tou ya	200
+生产布局	sheng chan bu ju	200
+生产定额	sheng chan ding e	200
+生产额	sheng chan e	200
+生产费	sheng chan fei	200
+生产废水	sheng chan fei shui	200
+生产工具	sheng chan gong ju	200
+生产规划	sheng chan gui hua	200
+生产过剩	sheng chan guo sheng	200
+生产进度实时反馈	sheng chan jin du shi shi fan kui	200
+生产例会	sheng chan li hui	200
+生产链	sheng chan lian	200
+生产流程	sheng chan liu cheng	200
+生产潜力	sheng chan qian li	200
+生产区	sheng chan qu	200
+生产实践	sheng chan shi jian	200
+生产指标	sheng chan zhi biao	200
+生产指数	sheng chan zhi shu	200
+生产秩序	sheng chan zhi xu	200
+生料带	sheng liao dai	200
+生命周期评估	sheng ming zhou qi ping gu	200
+生铁	sheng tie	200
+时变系统	shi bian xi tong	200
+时不变系统	shi bu bian xi tong	200
+石川图	shi chuan tu	200
+施工工艺	shi gong gong yi	200
+事故三角	shi gu san jiao	200
+时间误差	shi jian wu cha	200
+视觉作业	shi jue zuo ye	200
+失蜡法	shi la fa	200
+史密斯预测器	shi mi si yu ce qi	200
+施密特触发器	shi mi te chu fa qi	200
+石墨电极	shi mo dian ji	200
+试生产	shi sheng chan	200
+实时控制系统	shi shi kong zhi xi tong	200
+失调电压	shi tiao dian ya	200
+失效模式	shi xiao mo shi	200
+试压泵	shi ya beng	200
+试验误差	shi yan wu cha	200
+石英晶体谐振器	shi ying jing ti xie zhen qi	200
+时钟频率	shi zhong pin lv	200
+手工电弧焊	shou gong dian hu han	200
+手工制造	shou gong zhi zao	200
+受控源	shou kong yuan	200
+手摇泵	shou yao beng	200
+输出电阻	shu chu dian zu	200
+数据误差	shu ju wu cha	200
+数据选择器	shu ju xuan ze qi	200
+数控车床	shu kong che chuang	200
+数控机床加工	shu kong ji chuang jia gong	200
+数控技术	shu kong ji shu	200
+数控机械	shu kong ji xie	200
+鼠笼式电动机	shu long shi dian dong ji	200
+输配电	shu pei dian	200
+输入电阻	shu ru dian zu	200
+输入信号整形	shu ru xin hao zheng xing	200
+疏水阀	shu shui fa	200
+输送泵	shu song beng	200
+输送机	shu song ji	200
+数位控制	shu wei kong zhi	200
+束线带	shu xian dai	200
+输油泵	shu you beng	200
+输运现象	shu yun xian xiang	200
+树脂基复合材料	shu zhi ji fu he cai liao	200
+数值控制	shu zhi kong zhi	200
+树脂漆	shu zhi qi	200
+树脂砂	shu zhi sha	200
+数字式电流继电器	shu zi shi dian liu ji dian qi	200
+数字信号控制器	shu zi xin hao kong zhi qi	200
+衰减器	shuai jian qi	200
+闩锁效应	shuan suo xiao ying	200
+双倍数据速率	shuang bei shu ju su lv	200
+双重积分器	shuang chong ji fen qi	200
+双电层电容器	shuang dian ceng dian rong qi	200
+双电源	shuang dian yuan	200
+双二阶滤波器	shuang er jie lv bo qi	200
+双极性晶体管	shuang ji xing jing ti guan	200
+双金属	shuang jin shu	200
+双金属片	shuang jin shu pian	200
+双馈电机	shuang kui dian ji	200
+双线性转换	shuang xian xing zhuan huan	200
+双相不锈钢	shuang xiang bu xiu gang	200
+双向晶闸管	shuang xiang jing zha guan	200
+水泵房	shui beng fang	200
+水刀	shui dao	200
+水电工程	shui dian gong cheng	200
+水晶头	shui jing tou	200
+水冷壁	shui leng bi	200
+水力泵	shui li beng	200
+水力学	shui li xue	200
+水泥机械	shui ni ji xie	200
+水平整合	shui ping zheng he	200
+水性树脂	shui xing shu zhi	200
+水银开关	shui yin kai guan	200
+水银整流器	shui yin zheng liu qi	200
+水准测量	shui zhun ce liang	200
+顺丁橡胶	shun ding xiang jiao	200
+瞬时电流	shun shi dian liu	200
+顺序功能流程图	shun xu gong neng liu cheng tu	200
+伺服机构	si fu ji gou	200
+伺服马达	si fu ma da	200
+伺服系统	si fu xi tong	200
+丝攻和丝板	si gong he si ban	200
+死区	si qu	200
+塑钢带	su gang dai	200
+塑胶模具	su jiao mu ju	200
+塑胶添加剂	su jiao tian jia ji	200
+塑壳断路器	su ke duan lu qi	200
+塑料板材	su liao ban cai	200
+塑料方形扁平封装	su liao fang xing bian ping feng zhuang	200
+塑料管道	su liao guan dao	200
+塑料机械	su liao ji xie	200
+塑料模具	su liao mu ju	200
+塑性变形	su xing bian xing	200
+酸洗	suan xi	200
+随机控制	sui ji kong zhi	200
+随机误差	sui ji wu cha	200
+榫卯	sun mao	200
+锁存器	suo cun qi	200
+梭动阀	suo dong fa	200
+锁管机	suo guan ji	200
+缩醛树脂	suo quan shu zhi	200
+锁相环	suo xiang huan	200
+钛酸钡	tai suan bei	200
+钽电容	tan dian rong	200
+碳钢	tan gang	200
+炭黑	tan hei	200
+碳化铌	tan hua ni	200
+碳化钛	tan hua tai	200
+弹簧秤	tan huang cheng	200
+弹簧钢	tan huang gang	200
+弹簧机	tan huang ji	200
+弹簧铰链	tan huang jiao lian	200
+弹簧片	tan huang pian	200
+弹簧圈	tan huang quan	200
+碳纳米管	tan na mi guan	200
+探伤机	tan shang ji	200
+探伤仪	tan shang yi	200
+碳素钢	tan su gang	200
+碳素工具钢	tan su gong ju gang	200
+碳锌电池	tan xin dian chi	200
+弹性模量	tan xing mo liang	200
+弹性销	tan xing xiao	200
+探针卡	tan zhen ka	200
+陶瓷材料	tao ci cai liao	200
+陶瓷刀	tao ci dao	200
+陶瓷封装	tao ci feng zhuang	200
+陶瓷工业	tao ci gong ye	200
+陶瓷基复合材料	tao ci ji fu he cai liao	200
+陶瓷膜	tao ci mo	200
+陶瓷纤维	tao ci xian wei	200
+陶瓷原料	tao ci yuan liao	200
+陶瓷制品	tao ci zhi pin	200
+陶瓷砖	tao ci zhuan	200
+陶粒	tao li	200
+特斯拉阀	te si la fa	200
+特斯拉线圈	te si la xian quan	200
+特种泵	te zhong beng	200
+特种工艺	te zhong gong yi	200
+特种橡胶	te zhong xiang jiao	200
+体积流量	ti ji liu liang	200
+体积模量	ti ji mo liang	200
+提升阀	ti sheng fa	200
+田口方法	tian kou fang fa	200
+天然橡胶	tian ran xiang jiao	200
+调节阀	tiao jie fa	200
+调谐放大器	tiao xie fang da qi	200
+调压阀	tiao ya fa	200
+调质处理	tiao zhi chu li	200
+调制电流	tiao zhi dian liu	200
+铁的同素异形体	tie de tong su yi xing ti	200
+铁工厂	tie gong chang	200
+铁合金	tie he jin	200
+贴片机	tie pian ji	200
+铁素体不锈钢	tie su ti bu xiu gang	200
+铁碳合金相图	tie tan he jin xiang tu	200
+萜烯树脂	tie xi shu zhi	200
+铁氧体	tie yang ti	200
+铁氧体磁芯	tie yang ti ci xin	200
+铁砧	tie zhen	200
+铜箔	tong bo	200
+同步电动机	tong bu dian dong ji	200
+同步电机	tong bu dian ji	200
+铜合金	tong he jin	200
+统计过程控制	tong ji guo cheng kong zhi	200
+筒夹	tong jia	200
+铜钨	tong wu	134
+凸轮	tu lun	186
+图像传感器	tu xiang chuan gan qi	200
+退火炉	tui huo lu	200
+推拉策略	tui la ce lve	200
+推挽输出	tui wan shu chu	200
+推挽转换器	tui wan zhuan huan qi	200
+拖链	tuo lian	200
+外螺纹	wai luo wen	200
+弯矩分配法	wan ju fen pei fa	200
+万能试验机	wan neng shi yan ji	200
+弯曲刚度	wan qu gang du	200
+完全集成自动化	wan quan ji cheng zi dong hua	200
+万向接头	wan xiang jie tou	200
+往复泵	wang fu beng	200
+往复式压缩机	wang fu shi ya suo ji	200
+往复运动	wang fu yun dong	200
+网络化控制系统	wang luo hua kong zhi xi tong	200
+微波滤波器	wei bo lv bo qi	200
+微电机	wei dian ji	200
+微电子器件	wei dian zi qi jian	200
+微电子学	wei dian zi xue	200
+危害分析	wei hai fen xi	200
+微弧氧化	wei hu yang hua	200
+微机电系统	wei ji dian xi tong	200
+微加工	wei jia gong	200
+微控制器	wei kong zhi qi	200
+维尼纶	wei ni lun	200
+微型断路器	wei xing duan lu qi	200
+微型化	wei xing hua	200
+维修电工	wei xiu dian gong	200
+位移电流	wei yi dian liu	200
+为制造设计	wei zhi zao she ji	200
+温度开关	wen du kai guan	200
+稳健设计	wen jian she ji	200
+温控阀	wen kong fa	200
+稳压器	wen ya qi	200
+蜗杆传动	wo gan chuan dong	200
+涡轮发动机	wo lun fa dong ji	200
+蜗轮副	wo lun fu	200
+涡轮增压器	wo lun zeng ya qi	200
+误差传递	wu cha chuan di	200
+误差率	wu cha lv	200
+无差拍控制	wu cha pai kong zhi	200
+误差值	wu cha zhi	200
+无缝钢管	wu feng gang guan	200
+无缝钢管厂	wu feng gang guan chang	200
+五个为什么	wu ge wei shen me	200
+无焊缝	wu han feng	200
+钨合金	wu he jin	200
+无接头	wu jie tou	200
+五金工艺	wu jin gong yi	200
+五金机械	wu jin ji xie	200
+五金模具	wu jin mu ju	200
+物理测试	wu li ce shi	200
+物理气相沉积	wu li qi xiang chen ji	200
+物料清单	wu liao qing dan	200
+物料需求计划	wu liao xu qiu ji hua	200
+物流配送	wu liu pei song	200
+物流自动化	wu liu zi dong hua	200
+无刷电机	wu shua dian ji	200
+污水泵	wu shui beng	200
+无线供电	wu xian gong dian	200
+铣刨机	xi bao ji	200
+铣齿机	xi chi ji	200
+析出硬化	xi chu ying hua	200
+铣床	xi chuang	200
+铣刀	xi dao	200
+铣工	xi gong	200
+吸收式制冷	xi shou shi zhi leng	200
+系统动力学	xi tong dong li xue	200
+系统建模语言	xi tong jian mo yu yan	200
+西屋电气	xi wu dian qi	200
+铣削	xi xue	200
+下变频	xia bian pin	200
+线电压	xian dian ya	200
+限幅器	xian fu qi	200
+先进规划排程系统	xian jin gui hua pai cheng xi tong	200
+先进过程控制	xian jin guo cheng kong zhi	200
+线路驱动器	xian lu qu dong qi	200
+线切割	xian qie ge	200
+线性变参数控制	xian xing bian can shu kong zhi	200
+线性变参数系统	xian xing bian can shu xi tong	200
+线性编码器	xian xing bian ma qi	200
+线性电压调节器	xian xing dian ya tiao jie qi	200
+限压阀	xian ya fa	200
+限制器	xian zhi qi	200
+相电流	xiang dian liu	200
+相电压	xiang dian ya	200
+相对密度	xiang dui mi du	200
+相对误差	xiang dui wu cha	200
+橡胶板	xiang jiao ban	200
+橡胶材料	xiang jiao cai liao	200
+橡胶垫	xiang jiao dian	200
+橡胶管	xiang jiao guan	200
+橡胶机械	xiang jiao ji xie	200
+橡胶件	xiang jiao jian	200
+橡胶模具	xiang jiao mu ju	200
+橡胶配件	xiang jiao pei jian	200
+橡胶圈	xiang jiao quan	200
+橡胶套	xiang jiao tao	200
+橡胶制品	xiang jiao zhi pin	200
+向量控制	xiang liang kong zhi	200
+相图	xiang tu	200
+相移振荡器	xiang yi zhen dang qi	200
+响应曲面法	xiang ying qu mian fa	200
+小齿轮	xiao chi lun	200
+销钉	xiao ding	200
+消防泵	xiao fang beng	200
+肖特基二极管	xiao te ji er ji guan	200
+小信号模型	xiao xin hao mo xing	200
+小型机械	xiao xing ji xie	200
+斜口钳	xie kou qian	200
+协作式机器人	xie zuo shi ji qi ren	200
+芯材	xin cai	120
+新工艺	xin gong yi	200
+信号电缆	xin hao dian lan	200
+信号流图	xin hao liu tu	200
+锌合金	xin he jin	200
+锌空气电池	xin kong qi dian chi	200
+行波管	xing bo guan	200
+行程开关	xing cheng kai guan	200
+性能系数	xing neng xi shu	200
+行星齿轮	xing xing chi lun	200
+形状公差	xing zhuang gong cha	200
+形状记忆合金	xing zhuang ji yi he jin	200
+续流二极管	xu liu er ji guan	200
+虚拟仪器	xu ni yi qi	200
+絮凝	xu ning	200
+悬臂梁	xuan bi liang	200
+旋塞阀	xuan sai fa	200
+旋涡泵	xuan wo beng	200
+玄武岩纤维	xuan wu yan xian wei	200
+选择性腐蚀	xuan ze xing fu shi	200
+旋转泵	xuan zhuan beng	200
+旋转编码器	xuan zhuan bian ma qi	200
+旋转磁场	xuan zhuan ci chang	200
+旋转开关	xuan zhuan kai guan	200
+雪崩二极管	xue beng er ji guan	200
+雪崩光电二极管	xue beng guang dian er ji guan	200
+学习自动机	xue xi zi dong ji	200
+循环泵	xun huan beng	200
+循环阀	xun huan fa	200
+压电电动机	ya dian dian dong ji	200
+压电体	ya dian ti	200
+压电效应	ya dian xiao ying	200
+压痕硬度	ya hen ying du	200
+压接	ya jie	200
+压控振荡器	ya kong zhen dang qi	200
+压力传感器	ya li chuan gan qi	200
+压敏电阻	ya min dian zu	200
+压敏陶瓷	ya min tao ci	200
+压头	ya tou	200
+亚稳态	ya wen tai	200
+压延成型	ya yan cheng xing	200
+亚阈值电流	ya yu zhi dian liu	200
+压铸	ya zhu	200
+压铸件	ya zhu jian	200
+验电器	yan dian qi	200
+研磨膏	yan mo gao	200
+验证及确认	yan zheng ji que ren	200
+扬程	yang cheng	200
+氧化铝陶瓷	yang hua lv tao ci	200
+氧化物薄膜晶体管	yang hua wu bo mo jing ti guan	200
+氧化锌	yang hua xin	200
+氧化银电池	yang hua yin dian chi	200
+阳极处理	yang ji chu li	200
+阳极键合	yang ji jian he	200
+遥测技术	yao ce ji shu	200
+窑业	yao ye	200
+冶金工业	ye jin gong ye	200
+冶金焦	ye jin jiao	200
+冶金学	ye jin xue	200
+液流电池	ye liu dian chi	200
+叶片泵	ye pian beng	200
+液态金属	ye tai jin shu	200
+野外作业	ye wai zuo ye	200
+业务过程自动化	ye wu guo cheng zi dong hua	200
+业务流程重组	ye wu liu cheng chong zu	200
+液下泵	ye xia beng	200
+液相色谱仪	ye xiang se pu yi	200
+液压泵	ye ya beng	200
+液压表	ye ya biao	200
+液压冲床	ye ya chong chuang	200
+液压阀	ye ya fa	200
+液压缸	ye ya gang	200
+液压工具	ye ya gong ju	200
+液压管线	ye ya guan xian	200
+液压机	ye ya ji	200
+液压件	ye ya jian	200
+液压油	ye ya you	200
+液压站	ye ya zhan	200
+易爆物料	yi bao wu liao	200
+仪表阀门	yi biao fa men	200
+乙丙橡胶	yi bing xiang jiao	200
+异步电动机	yi bu dian dong ji	200
+异步电机	yi bu dian ji	200
+一阶保持	yi jie bao chi	200
+溢流阀	yi liu fa	200
+易切削	yi qie xue	200
+易切削钢	yi qie xue gang	200
+乙酸丁酸纤维素	yi suan ding suan xian wei su	200
+以太网供电	yi tai wang gong dian	200
+异戊橡胶	yi wu xiang jiao	200
+异型材	yi xing cai	200
+异形钢材	yi xing gang cai	200
+异形钢管	yi xing gang guan	200
+异质结	yi zhi jie	200
+忆阻器	yi zu qi	200
+阴极防蚀	yin ji fang shi	200
+音频滤波器	yin pin lv bo qi	200
+引线键合	yin xian jian he	200
+应变片	ying bian pian	200
+硬度计	ying du ji	200
+硬密封	ying mi feng	200
+应用力学	ying yong li xue	200
+硬质合金	ying zhi he jin	200
+永磁同步马达	yong ci tong bu ma da	200
+用电器	yong dian qi	200
+游标卡尺	you biao ka chi	200
+游动阀	you dong fa	200
+有机热载体	you ji re zai ti	200
+优良率	you liang lv	200
+游丝	you si	200
+预加工	yu jia gong	200
+阈值电流	yu zhi dian liu	200
+阈值电压	yu zhi dian ya	200
+预制组件	yu zhi zu jian	200
+远程机器人	yuan cheng ji qi ren	200
+圆度仪	yuan du yi	200
+圆螺母	yuan luo mu	200
+圆穴锯	yuan xue ju	200
+圆周运动	yuan zhou yun dong	200
+圆柱齿轮	yuan zhu chi lun	200
+原子层沉积	yuan zi ceng chen ji	200
+原子堆积因子	yuan zi dui ji yin zi	200
+运筹学	yun chou xue	200
+运动副	yun dong fu	120
+运动链	yun dong lian	200
+运动系统图	yun dong xi tong tu	200
+运动学	yun dong xue	200
+运动学耦合	yun dong xue ou he	200
+杂散振荡	za san zhen dang	200
+在线模型	zai xian mo xing	200
+在线烧录	zai xian shao lu	200
+暂态	zan tai	200
+增密工艺	zeng mi gong yi	200
+增压泵	zeng ya beng	200
+增益规划	zeng yi gui hua	200
+闸刀开关	zha dao kai guan	200
+轧钢厂	zha gang chang	200
+轧钢机	zha gang ji	200
+渣浆泵	zha jiang beng	200
+轧制	zha zhi	200
+占空比	zhan kong bi	200
+张紧轮	zhang jin lun	200
+照度传感器	zhao du chuan gan qi	200
+折弯工艺	zhe wan gong yi	200
+折弯机	zhe wan ji	200
+振荡电流	zhen dang dian liu	200
+振荡器	zhen dang qi	200
+振动器	zhen dong qi	200
+针脚兼容	zhen jiao jian rong	200
+真空泵	zhen kong beng	200
+真空泵油	zhen kong beng you	200
+真空成型	zhen kong cheng xing	200
+真空电弧再熔炼	zhen kong dian hu zai rong lian	200
+真空管	zhen kong guan	200
+真空回流炉	zhen kong hui liu lu	200
+真空开关	zhen kong kai guan	200
+镇流器	zhen liu qi	200
+蒸镀	zheng du	200
+正火	zheng huo	200
+整流管	zheng liu guan	200
+整流桥	zheng liu qiao	200
+整流子	zheng liu zi	200
+蒸气压	zheng qi ya	200
+整体铸造	zheng ti zhu zao	200
+正向系统	zheng xiang xi tong	200
+直尺	zhi chi	200
+制动阀	zhi dong fa	200
+织构	zhi gou	200
+止回阀	zhi hui fa	200
+直接键合	zhi jie jian he	200
+直接转矩控制	zhi jie zhuan ju kong zhi	200
+治具	zhi ju	200
+质量管理体系	zhi liang guan li ti xi	200
+质量检验	zhi liang jian yan	200
+质量密度	zhi liang mi du	200
+质量平衡	zhi liang ping heng	200
+质量守恒	zhi liang shou heng	200
+直流电动机	zhi liu dian dong ji	200
+直流电源	zhi liu dian yuan	200
+直流刹车	zhi liu sha che	200
+直流无刷电动机	zhi liu wu shua dian dong ji	200
+直流有刷马达	zhi liu you shua ma da	200
+直驱式机构	zhi qu shi ji gou	200
+直线导轨	zhi xian dao gui	200
+直线运动机构	zhi xian yun dong ji gou	200
+直线轴承	zhi xian zhou cheng	200
+纸箱机械	zhi xiang ji xie	200
+执行器	zhi xing qi	200
+职业安全健康	zhi ye an quan jian kang	200
+职业危害	zhi ye wei hai	200
+职业灾害	zhi ye zai hai	200
+制造厂商	zhi zao chang shang	200
+制造费用	zhi zao fei yong	200
+制造自动化协议	zhi zao zi dong hua xie yi	200
+制造资源计划	zhi zao zi yuan ji hua	200
+中冷器	zhong leng qi	200
+中密度纤维板	zhong mi du xian wei ban	200
+中碳钢	zhong tan gang	200
+中心架	zhong xin jia	200
+中心距	zhong xin ju	107
+中轴	zhong zhou	200
+轴承钢	zhou cheng gang	200
+轴承合金	zhou cheng he jin	200
+轴承检测	zhou cheng jian ce	200
+轴承座	zhou cheng zuo	200
+轴电压	zhou dian ya	200
+轴流泵	zhou liu beng	200
+轴套	zhou tao	116
+轴向磁通电动机	zhou xiang ci tong dian dong ji	200
+铸锻件	zhu duan jian	200
+铸钢	zhu gang	200
+助焊剂	zhu han ji	200
+主开关	zhu kai guan	200
+助熔剂	zhu rong ji	200
+柱塞泵	zhu sai beng	200
+柱塞阀	zhu sai fa	200
+注水泵	zhu shui beng	200
+铸铁管	zhu tie guan	200
+铸铁件	zhu tie jian	200
+铸造厂	zhu zao chang	200
+铸造件	zhu zao jian	200
+铸造缺陷	zhu zao que xian	200
+铸造业	zhu zao ye	200
+铸造制品	zhu zao zhi pin	200
+主轴电机	zhu zhou dian ji	200
+转换开关	zhuan huan kai guan	200
+转向离合	zhuan xiang li he	200
+转子泵	zhuan zi beng	200
+装配厂	zhuang pei chang	200
+装配车间	zhuang pei che jian	200
+装配分厂	zhuang pei fen chang	200
+装配工	zhuang pei gong	200
+装配工厂	zhuang pei gong chang	200
+装配线	zhuang pei xian	200
+装配应力	zhuang pei ying li	200
+状态观测器	zhuang tai guan ce qi	200
+状态监测	zhuang tai jian ce	200
+状态转移方程	zhuang tai zhuan yi fang cheng	200
+状态转移矩阵	zhuang tai zhuan yi ju zhen	200
+锥齿轮	zhui chi lun	200
+自动抄表	zi dong chao biao	200
+自动除霜	zi dong chu shuang	200
+自动光学检查	zi dong guang xue jian cha	200
+自动换刀装置	zi dong huan dao zhuang zhi	200
+自动机	zi dong ji	200
+自动开关	zi dong kai guan	200
+自动调温器	zi dong tiao wen qi	200
+自动线	zi dong xian	200
+自动增益控制	zi dong zeng yi kong zhi	200
+自攻螺钉	zi gong luo ding	200
+自攻螺丝	zi gong luo si	200
+自激振荡	zi ji zhen dang	200
+自吸泵	zi xi beng	200
+自整定	zi zheng ding	200
+总开关	zong kai guan	200
+总装配厂	zong zhuang pei chang	200
+阻焊层	zu han ceng	200
+阻抗分析仪	zu kang fen xi yi	200
+阻抗控制	zu kang kong zhi	200
+阻抗桥接	zu kang qiao jie	200
+阻力损失	zu li sun shi	200
+阻尼振动	zu ni zhen dong	200
+阻容吸收器	zu rong xi shou qi	200
+钻铣床	zuan xi chuang	200
+最小相位	zui xiao xiang wei	200
+作业面	zuo ye mian	200
+作业区	zuo ye qu	200
+作业条件	zuo ye tiao jian	200
+作业线	zuo ye xian	200
+作业员	zuo ye yuan	200
+作业组	zuo ye zu	200

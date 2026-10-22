@@ -1,0 +1,32 @@
+# AI-era Chinese product and company names with pinyin readings.
+# Built by scripts/lexicon/export_ai_terms.py from web-checked name lists; do not edit by hand.
+---
+name: agent_ai_names
+version: "0.1.0"
+sort: by_weight
+...
+
+沉浸式翻译	chen jin shi fan yi	300
+低秩自适应	di zhi zi shi ying	300
+硅基流动	gui ji liu dong	300
+火山方舟	huo shan fang zhou	300
+火山引擎	huo shan yin qing	300
+基于人类反馈的强化学习	ji yu ren lei fan kui de qiang hua xue xi	300
+剪映	jian ying	300
+可灵	ke ling	300
+扣子编程	kou zi bian cheng	300
+哩布哩布	li bu li bu	300
+零一万物	ling yi wan wu	300
+秒哒	miao da	300
+千帆大模型平台	qian fan da mo xing ping tai	300
+千帆应用开发平台	qian fan ying yong kai fa ping tai	300
+闪电说	shan dian shuo	300
+商汤大装置	shang tang da zhuang zhi	300
+商汤科技	shang tang ke ji	300
+腾讯云代码助手	teng xun yun dai ma zhu shou	300
+腾讯云智能体开发平台	teng xun yun zhi neng ti kai fa ping tai	300
+天工	tian gong	300
+稀宇科技	xi yu ke ji	300
+小艺	xiao yi	300
+星火飞码	xing huo fei ma	300
+讯飞听见	xun fei ting jian	300
